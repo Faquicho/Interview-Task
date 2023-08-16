@@ -5,11 +5,25 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class HouseDoor : MonoBehaviour
-{    private void OnTriggerEnter2D(Collider2D other)
+{
+    private int currentSceneIndex;
+
+    private void Awake()
     {
-        if(other.tag == "Player")
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        Debug.Log(currentSceneIndex);
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.tag == "Player")
         {
-            SceneManager.LoadScene(0);
-        }    
+            if (currentSceneIndex == 1)
+            {
+                SceneManager.LoadScene(0);
+            }
+            else
+            { SceneManager.LoadScene(0);}
+        }
     }
 }

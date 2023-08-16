@@ -7377,7 +7377,7 @@ GameObject:
   - component: {fileID: 927344075}
   - component: {fileID: 927344074}
   - component: {fileID: 927344073}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: House Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7561,7 +7561,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1379980335
-  m_SortingLayer: 2
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -7804,7 +7804,7 @@ GameObject:
   - component: {fileID: 1251959008}
   - component: {fileID: 1251959007}
   - component: {fileID: 1251959009}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Town Elements Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7865,7 +7865,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 1514177195
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -11767,7 +11767,7 @@ GameObject:
   - component: {fileID: 1688484694}
   - component: {fileID: 1688484693}
   - component: {fileID: 1688484695}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Buildings Tilemap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11828,7 +11828,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -731700679
-  m_SortingLayer: 4
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}

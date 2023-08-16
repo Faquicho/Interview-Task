@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerController : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     private GameObject player;
     private Rigidbody2D rb2d;
@@ -16,15 +16,12 @@ public class PlayerController : MonoBehaviour
         rb2d = GetComponent<Rigidbody2D>();
         player = GameObject.FindWithTag("Player");
     }
-    void Start()
-    {
-
-    }
 
 
     void Update()
     {
         Movement();
+
     }
 
     private void Movement()
@@ -36,5 +33,18 @@ public class PlayerController : MonoBehaviour
     private void OnMove(InputValue value)
     {
         moveInput = value.Get<Vector2>();
+    }
+
+    private void OnInteract(InputValue value) 
+    {
+        if (value.isPressed == true)
+        {
+            CheckInteraction();
+        }
+    }
+
+    private void CheckInteraction()
+    {
+
     }
 }
