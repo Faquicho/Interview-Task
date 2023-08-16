@@ -1,0 +1,3446 @@
+fileFormatVersion: 2
+guid: 91ca964e4e1310f44854ec0833107f46
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_666
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec0461a8d7c7304d83716906060c89a
+      internalID: -169703525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_667
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655baa09b734b694a928380c3938434a
+      internalID: -1216803156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_668
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e366d1a0fc3d4d887b3471473d4ff
+      internalID: -1530459843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_669
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98bc9aa94d0aec4c9d7dc9c5dbfd4a2
+      internalID: -1263700913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_670
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3cf1116f1a0ce34c9c20ecb84b8b074
+      internalID: 1940813316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_671
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fdcc75916d26e4b9544ad379b72fac
+      internalID: 1854079549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_672
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd64e4158dbf7e45bf7763c8780f697
+      internalID: 1034132831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_673
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9900fcf2ec46a6b4aa18b70045527eb3
+      internalID: 1757153077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_690
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c76c735cbc5b84fbff3a1c6c748190
+      internalID: -2126286959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_691
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a08a3be710d09b4ab0e36b15c9fbcfc
+      internalID: -1025857456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_692
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db07765dfeb499489a17ccc3730e004
+      internalID: -1832163861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_693
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b6c411676c8444ba6886f31c8ac6db
+      internalID: -265284319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_694
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3ac98c3a695141aa6b056f4b82258
+      internalID: 1312963839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_695
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356822a3508b9d4392ed7462d8985f1
+      internalID: -898537816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_696
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec83880fbba60a4fbb3a431dae76c0c
+      internalID: 1614919523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_697
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76d2dc03120284f8962a0cc98805f5
+      internalID: -141791270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_714
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52214b101f321114d875c68a31869ddb
+      internalID: -1991747926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_715
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764358aa7e8667a4bb42b3377083f8d9
+      internalID: -1817325396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_716
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634c2de4608e744482e00a7db2e00d6
+      internalID: 546390424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_717
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8defaa078c77b9d45945a08a4f17c071
+      internalID: -27888171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_718
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a887ade0fddff24894e9c5f8507538b
+      internalID: -2058715793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_719
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2143aaf12eafb458f7d477d9ca5e74
+      internalID: -671090192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_720
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdcb08488dbe2f4cbfad015847c26f2
+      internalID: -171774600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_721
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc32b8cfbca3fe40a9bc3ced3ba3edd
+      internalID: -2040190193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_738
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e21bec44ea43ad418067e2f8d8c43f0
+      internalID: 178161394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_739
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ed823fd6435e04ab1ad69432e1e1ad
+      internalID: -1750371949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_740
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435e950f6d7c0824fb1d624fa140f284
+      internalID: -1652986773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_741
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336ecdde070d8c24d8881279c14d44ea
+      internalID: 1001023394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_742
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241409d06093faf40a9bc22b405138ce
+      internalID: -629198184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_743
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566befa258638fb40aab729e52216bc5
+      internalID: -441173311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_744
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d614bfe21a5ab264883cfc0213877d5d
+      internalID: -1666981839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_745
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1104
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6f35ed371ee454a94ab945c70b6d1f
+      internalID: -1645057476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_762
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd14521472f7204984fa3a88da60c12
+      internalID: -1156658143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_763
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cc35a1b799a224d8f43021815fa89b
+      internalID: -1458408550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_764
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99247d94c4e7451468231ebd6a70a29c
+      internalID: -103483919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_765
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c02885c65fa1db44aa731815709d741
+      internalID: 835020406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_766
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377fbee8c33adf9419eb30f5f0f3b0f9
+      internalID: -1077679255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_767
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd99bd51e04f4849a4a044175f06901
+      internalID: 1726764278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_768
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2870346246fcd4899f2ed1cb29832f
+      internalID: 225073230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_769
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1056
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71984ab9bf328c54d83b899073d9ded3
+      internalID: -1906014642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_786
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757233085aa40f840bd5a1d95fb8468a
+      internalID: -1828866693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_787
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8808749615942c4f8440472ee578c50
+      internalID: 1395870407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_788
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7bbe5b6a3eee04d8d10908d678a453
+      internalID: 1802653158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_789
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c2c1d79bb50946b8bec7e5f82c2ea
+      internalID: 1828913637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_790
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9f3848e22236f45a1076f4ce2c5d33
+      internalID: 1417400659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_791
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000624e85ba7fe340880c83c81703453
+      internalID: -1496464667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_792
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc749f4294c62de4994c0cac50655b63
+      internalID: -265699104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_793
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5500e03e3ed0ff9448e74c98c3d05c04
+      internalID: -853777526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b04b72ce49634095fce0bb40cd5cc
+      internalID: 1587673058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1173
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e97a37ce4e5f164fbba2f15a0b1fd18
+      internalID: 1382927455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1174
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ffe226b99da624ebccf334a39da3aa
+      internalID: -1812419357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1175
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74958db91dd1724ba6b2947977b80d0
+      internalID: 185442049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1176
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78db687af4ed3464fafd3f82da66cca8
+      internalID: -183561342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1177
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a77f36c0b5e5848afc700364d97e3d
+      internalID: 629186407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1178
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9832bbbd596e1d47b78bd6d45b1251e
+      internalID: 58676656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1179
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491509dfe787eaa4b9151504f0ce5cbb
+      internalID: 1257947034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1196
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7028e5ebc5dcfb2408f64c0edab9d179
+      internalID: 1354339122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1197
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1e7caaacb1c74a8a1e3dee2b06833
+      internalID: -503637666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1198
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281beab675d0c994bab146ec55c91923
+      internalID: 1192561935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1199
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fa7513d1f384641a21bac403a476dc
+      internalID: -921064312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1200
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab74f1713d0ba494684a40e6a13e7de2
+      internalID: 665820597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1201
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de12ca093cea73c4b8ef953e525a4f5d
+      internalID: 1517563408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1202
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be12631a2bba5d4eaef9a8a87c766f6
+      internalID: -413937103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1203
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1069c180c26a34eaa5ed4ee8bece83
+      internalID: 224544238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51de53ebc8cd0244bbda15e52947256b
+      internalID: -150166840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1221
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d0acb7e273503478fbb146f801603f
+      internalID: 806805263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1222
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0b75e1f80fa14a8a84413e6f96716
+      internalID: 922358215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1223
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83db4dbfa251a994b91d0e5c683599eb
+      internalID: 1127550875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1224
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a61d457d72fbb46844ba0622522cfd
+      internalID: 1096228364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1225
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1c6d52e7727ee40826822f911a11f5
+      internalID: 197041777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1226
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96931e49af90bc49ba4b6b085f1f571
+      internalID: -1398647091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1227
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69daea9b657faee4db6151cbcbe30bfd
+      internalID: 1044131757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1244
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0e29d091335c541969580b3796a46d
+      internalID: 1360781581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1245
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18acde09273f0141974afb410cb47ca
+      internalID: -284249438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1246
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa3bb66b8661bc4698bf29d0ed7fbbe
+      internalID: 384383517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1247
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d88c98c4d92e52459c829d9f7b08537
+      internalID: 1835025298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1248
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4da57350a359c0498f53728250a221f
+      internalID: -1245496738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1249
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ab5e14b28293f489bbeee8c90ed338
+      internalID: -959880207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1250
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd20cb70629b8d4b86f2c395eed9e7f
+      internalID: -787875097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1251
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d29c4e9d2aa834fab4283a9449fe9c
+      internalID: 202300475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1268
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbda8275990b40649b4d1ae1224a33ee
+      internalID: 1576865277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1269
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fb2304e8cb5864284105522add4e91
+      internalID: -1911747389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1270
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d57682f7769bf47b72561054d31103
+      internalID: 227354838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1271
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c31bdc8d195534fab02881196a0f6d
+      internalID: -1957129583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1272
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424c2c4b7dfbcf459534c7891bbb94a
+      internalID: -1941647644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1273
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af51e3760b50a640875d0073dcebf9d
+      internalID: 1426110778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1274
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ac7dd78be001448a8e71179edae872
+      internalID: -1685361978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1275
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d8642dac0eb6b4093be65ca74ba6e3
+      internalID: -1851425689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1292
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e93b2d4e06292b40919ab819561ffc2
+      internalID: -286539937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1293
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0a5beb5cf2b5647ace99320ab32554
+      internalID: 541142666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1294
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f249f3e4f3ba4234e8461d64ce98ac60
+      internalID: -1907730730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1295
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3470c500705b847b1a41e10f028b90
+      internalID: -752323742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1296
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c96c9a66f66c994b938d12b2158e450
+      internalID: 788717688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1297
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858e538767ce3174d90be07a68847e77
+      internalID: 288282409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1298
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab71568ecd10ab4182809ee19de0903
+      internalID: -1217254726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_3d_walls_48x48_1299
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5665eba42bbe4b4da6a2626b9ca1ada
+      internalID: -955270539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Room_Builder_3d_walls_48x48_396: -28084747
+      Room_Builder_3d_walls_48x48_1039: 1597907118
+      Room_Builder_3d_walls_48x48_1066: 161484331
+      Room_Builder_3d_walls_48x48_1107: 1002555280
+      Room_Builder_3d_walls_48x48_82: -1966627994
+      Room_Builder_3d_walls_48x48_943: -989831135
+      Room_Builder_3d_walls_48x48_984: 146990862
+      Room_Builder_3d_walls_48x48_76: -484796299
+      Room_Builder_3d_walls_48x48_184: 606094849
+      Room_Builder_3d_walls_48x48_1162: 403806842
+      Room_Builder_3d_walls_48x48_1017: 355699510
+      Room_Builder_3d_walls_48x48_212: -2077392187
+      Room_Builder_3d_walls_48x48_1013: 1602202766
+      Room_Builder_3d_walls_48x48_272: 1909160633
+      Room_Builder_3d_walls_48x48_210: 1198518793
+      Room_Builder_3d_walls_48x48_511: -589116683
+      Room_Builder_3d_walls_48x48_558: 1349833490
+      Room_Builder_3d_walls_48x48_529: 192036453
+      Room_Builder_3d_walls_48x48_769: -1906014642
+      Room_Builder_3d_walls_48x48_742: -629198184
+      Room_Builder_3d_walls_48x48_447: -2028030023
+      Room_Builder_3d_walls_48x48_292: 1391665370
+      Room_Builder_3d_walls_48x48_274: 627075152
+      Room_Builder_3d_walls_48x48_302: -1138488986
+      Room_Builder_3d_walls_48x48_1163: -1365840773
+      Room_Builder_3d_walls_48x48_708: 2084077579
+      Room_Builder_3d_walls_48x48_762: -1156658143
+      Room_Builder_3d_walls_48x48_868: 699063563
+      Room_Builder_3d_walls_48x48_1225: 197041777
+      Room_Builder_3d_walls_48x48_628: 1008641380
+      Room_Builder_3d_walls_48x48_851: -348063787
+      Room_Builder_3d_walls_48x48_355: -1627346831
+      Room_Builder_3d_walls_48x48_77: -1384731794
+      Room_Builder_3d_walls_48x48_716: 546390424
+      Room_Builder_3d_walls_48x48_139: -1090874615
+      Room_Builder_3d_walls_48x48_106: -1562135294
+      Room_Builder_3d_walls_48x48_1129: 1022969303
+      Room_Builder_3d_walls_48x48_1003: -638646744
+      Room_Builder_3d_walls_48x48_1236: 518316097
+      Room_Builder_3d_walls_48x48_273: 439509599
+      Room_Builder_3d_walls_48x48_206: -86732535
+      Room_Builder_3d_walls_48x48_271: -1159304877
+      Room_Builder_3d_walls_48x48_629: -287815941
+      Room_Builder_3d_walls_48x48_856: -1938003671
+      Room_Builder_3d_walls_48x48_201: -1783309463
+      Room_Builder_3d_walls_48x48_1115: -690104367
+      Room_Builder_3d_walls_48x48_580: -69849989
+      Room_Builder_3d_walls_48x48_169: -1777660113
+      Room_Builder_3d_walls_48x48_204: -1045383813
+      Room_Builder_3d_walls_48x48_657: 1741923249
+      Room_Builder_3d_walls_48x48_263: -1016024055
+      Room_Builder_3d_walls_48x48_518: 1110653181
+      Room_Builder_3d_walls_48x48_38: -810666651
+      Room_Builder_3d_walls_48x48_887: -988844160
+      Room_Builder_3d_walls_48x48_205: -936130176
+      Room_Builder_3d_walls_48x48_1279: 78948113
+      Room_Builder_3d_walls_48x48_316: -230194373
+      Room_Builder_3d_walls_48x48_491: 2002747964
+      Room_Builder_3d_walls_48x48_964: -479129549
+      Room_Builder_3d_walls_48x48_1024: -2098318234
+      Room_Builder_3d_walls_48x48_750: -546944440
+      Room_Builder_3d_walls_48x48_311: -716817392
+      Room_Builder_3d_walls_48x48_158: -2016412918
+      Room_Builder_3d_walls_48x48_265: 1019201519
+      Room_Builder_3d_walls_48x48_495: -473882537
+      Room_Builder_3d_walls_48x48_768: 225073230
+      Room_Builder_3d_walls_48x48_215: 88684867
+      Room_Builder_3d_walls_48x48_258: -469816563
+      Room_Builder_3d_walls_48x48_371: -1986756810
+      Room_Builder_3d_walls_48x48_1152: 550234444
+      Room_Builder_3d_walls_48x48_713: -892325315
+      Room_Builder_3d_walls_48x48_498: -1541324491
+      Room_Builder_3d_walls_48x48_1060: 1917869246
+      Room_Builder_3d_walls_48x48_542: 1197471572
+      Room_Builder_3d_walls_48x48_1272: -1941647644
+      Room_Builder_3d_walls_48x48_1285: -123665004
+      Room_Builder_3d_walls_48x48_617: -2079229592
+      Room_Builder_3d_walls_48x48_1274: -1685361978
+      Room_Builder_3d_walls_48x48_65: -868344132
+      Room_Builder_3d_walls_48x48_1109: 931148205
+      Room_Builder_3d_walls_48x48_81: -1922408
+      Room_Builder_3d_walls_48x48_913: 460789196
+      Room_Builder_3d_walls_48x48_644: 1299657382
+      Room_Builder_3d_walls_48x48_225: 894909258
+      Room_Builder_3d_walls_48x48_989: -610074718
+      Room_Builder_3d_walls_48x48_1250: -787875097
+      Room_Builder_3d_walls_48x48_51: 149930165
+      Room_Builder_3d_walls_48x48_322: -1452382779
+      Room_Builder_3d_walls_48x48_519: 2056160143
+      Room_Builder_3d_walls_48x48_1186: 2046146067
+      Room_Builder_3d_walls_48x48_1134: 1154022191
+      Room_Builder_3d_walls_48x48_1201: 1517563408
+      Room_Builder_3d_walls_48x48_988: 1588094313
+      Room_Builder_3d_walls_48x48_153: -1961438006
+      Room_Builder_3d_walls_48x48_877: 485400990
+      Room_Builder_3d_walls_48x48_664: -555409768
+      Room_Builder_3d_walls_48x48_597: 658209755
+      Room_Builder_3d_walls_48x48_387: 1355219983
+      Room_Builder_3d_walls_48x48_45: -1040586341
+      Room_Builder_3d_walls_48x48_712: 673876458
+      Room_Builder_3d_walls_48x48_950: -222632539
+      Room_Builder_3d_walls_48x48_905: 1738086050
+      Room_Builder_3d_walls_48x48_917: -698996563
+      Room_Builder_3d_walls_48x48_536: 478762064
+      Room_Builder_3d_walls_48x48_1262: 1085128816
+      Room_Builder_3d_walls_48x48_839: 2147054597
+      Room_Builder_3d_walls_48x48_1253: 251450903
+      Room_Builder_3d_walls_48x48_21: -707496815
+      Room_Builder_3d_walls_48x48_49: -1341060105
+      Room_Builder_3d_walls_48x48_306: -447071162
+      Room_Builder_3d_walls_48x48_774: -1014601157
+      Room_Builder_3d_walls_48x48_957: 503235130
+      Room_Builder_3d_walls_48x48_101: 83601319
+      Room_Builder_3d_walls_48x48_1090: -199210617
+      Room_Builder_3d_walls_48x48_649: -1668721455
+      Room_Builder_3d_walls_48x48_1176: -183561342
+      Room_Builder_3d_walls_48x48_26: 4291062
+      Room_Builder_3d_walls_48x48_660: -2121518557
+      Room_Builder_3d_walls_48x48_919: 1631007238
+      Room_Builder_3d_walls_48x48_411: -199281299
+      Room_Builder_3d_walls_48x48_1088: -901169179
+      Room_Builder_3d_walls_48x48_155: -1028757083
+      Room_Builder_3d_walls_48x48_454: 1916910452
+      Room_Builder_3d_walls_48x48_1240: 1369983952
+      Room_Builder_3d_walls_48x48_14: 1256728622
+      Room_Builder_3d_walls_48x48_525: -532775533
+      Room_Builder_3d_walls_48x48_487: 1585617443
+      Room_Builder_3d_walls_48x48_528: -877616610
+      Room_Builder_3d_walls_48x48_60: 1706909109
+      Room_Builder_3d_walls_48x48_579: 1168533581
+      Room_Builder_3d_walls_48x48_43: 1069015626
+      Room_Builder_3d_walls_48x48_806: -897576899
+      Room_Builder_3d_walls_48x48_1261: 1321601969
+      Room_Builder_3d_walls_48x48_490: 2082465996
+      Room_Builder_3d_walls_48x48_826: -1897844823
+      Room_Builder_3d_walls_48x48_866: 693918852
+      Room_Builder_3d_walls_48x48_1031: 567904159
+      Room_Builder_3d_walls_48x48_331: 1566303697
+      Room_Builder_3d_walls_48x48_256: -159960957
+      Room_Builder_3d_walls_48x48_517: 1053212033
+      Room_Builder_3d_walls_48x48_1008: -1499487889
+      Room_Builder_3d_walls_48x48_107: 1191681279
+      Room_Builder_3d_walls_48x48_648: -173214458
+      Room_Builder_3d_walls_48x48_936: 1046928109
+      Room_Builder_3d_walls_48x48_1167: -965075574
+      Room_Builder_3d_walls_48x48_351: 234997748
+      Room_Builder_3d_walls_48x48_470: 737994169
+      Room_Builder_3d_walls_48x48_27: 438399622
+      Room_Builder_3d_walls_48x48_977: -1382253832
+      Room_Builder_3d_walls_48x48_464: 2102724217
+      Room_Builder_3d_walls_48x48_257: -253073789
+      Room_Builder_3d_walls_48x48_166: -359361878
+      Room_Builder_3d_walls_48x48_352: 1014288709
+      Room_Builder_3d_walls_48x48_150: -914918366
+      Room_Builder_3d_walls_48x48_228: 343487081
+      Room_Builder_3d_walls_48x48_95: -1443823432
+      Room_Builder_3d_walls_48x48_372: 1700273529
+      Room_Builder_3d_walls_48x48_812: 1194077813
+      Room_Builder_3d_walls_48x48_630: -1309733405
+      Room_Builder_3d_walls_48x48_1040: -1883216549
+      Room_Builder_3d_walls_48x48_359: -1324595024
+      Room_Builder_3d_walls_48x48_761: -361074438
+      Room_Builder_3d_walls_48x48_576: -2018265678
+      Room_Builder_3d_walls_48x48_398: -1952244798
+      Room_Builder_3d_walls_48x48_539: -2077941510
+      Room_Builder_3d_walls_48x48_1265: 1626428006
+      Room_Builder_3d_walls_48x48_456: -1612998976
+      Room_Builder_3d_walls_48x48_1184: -1210400328
+      Room_Builder_3d_walls_48x48_927: -1087231794
+      Room_Builder_3d_walls_48x48_1190: -692929178
+      Room_Builder_3d_walls_48x48_890: 1594936073
+      Room_Builder_3d_walls_48x48_193: -662993773
+      Room_Builder_3d_walls_48x48_335: -1463303003
+      Room_Builder_3d_walls_48x48_1062: -2112213183
+      Room_Builder_3d_walls_48x48_1067: -878641020
+      Room_Builder_3d_walls_48x48_836: -552603781
+      Room_Builder_3d_walls_48x48_122: 1402794870
+      Room_Builder_3d_walls_48x48_673: 1757153077
+      Room_Builder_3d_walls_48x48_181: -332705888
+      Room_Builder_3d_walls_48x48_16: -755800505
+      Room_Builder_3d_walls_48x48_922: -1272557956
+      Room_Builder_3d_walls_48x48_439: -1823277315
+      Room_Builder_3d_walls_48x48_1260: -739981498
+      Room_Builder_3d_walls_48x48_244: -169041220
+      Room_Builder_3d_walls_48x48_672: 1034132831
+      Room_Builder_3d_walls_48x48_733: -413808406
+      Room_Builder_3d_walls_48x48_971: -766651033
+      Room_Builder_3d_walls_48x48_684: 544552768
+      Room_Builder_3d_walls_48x48_577: 545417112
+      Room_Builder_3d_walls_48x48_636: 523393675
+      Room_Builder_3d_walls_48x48_993: -786821268
+      Room_Builder_3d_walls_48x48_1092: 864038683
+      Room_Builder_3d_walls_48x48_1264: -1927115820
+      Room_Builder_3d_walls_48x48_1122: 198100095
+      Room_Builder_3d_walls_48x48_926: 1396583688
+      Room_Builder_3d_walls_48x48_832: -200585112
+      Room_Builder_3d_walls_48x48_457: 924538308
+      Room_Builder_3d_walls_48x48_405: 1260530204
+      Room_Builder_3d_walls_48x48_997: 1666926201
+      Room_Builder_3d_walls_48x48_474: 1058128889
+      Room_Builder_3d_walls_48x48_342: 1137723889
+      Room_Builder_3d_walls_48x48_1028: -605771385
+      Room_Builder_3d_walls_48x48_346: -612333716
+      Room_Builder_3d_walls_48x48_1104: -770104276
+      Room_Builder_3d_walls_48x48_1071: -886124329
+      Room_Builder_3d_walls_48x48_773: -1677281288
+      Room_Builder_3d_walls_48x48_494: 433120510
+      Room_Builder_3d_walls_48x48_568: 95036549
+      Room_Builder_3d_walls_48x48_254: 1556276091
+      Room_Builder_3d_walls_48x48_915: 504857882
+      Room_Builder_3d_walls_48x48_1140: 1440678636
+      Room_Builder_3d_walls_48x48_213: 1075595695
+      Room_Builder_3d_walls_48x48_581: 842994978
+      Room_Builder_3d_walls_48x48_186: -1976473998
+      Room_Builder_3d_walls_48x48_466: 271238337
+      Room_Builder_3d_walls_48x48_1139: -93253179
+      Room_Builder_3d_walls_48x48_397: 651076323
+      Room_Builder_3d_walls_48x48_103: -370719786
+      Room_Builder_3d_walls_48x48_843: 796017819
+      Room_Builder_3d_walls_48x48_62: -686664430
+      Room_Builder_3d_walls_48x48_68: 145950302
+      Room_Builder_3d_walls_48x48_555: 541517754
+      Room_Builder_3d_walls_48x48_714: -1991747926
+      Room_Builder_3d_walls_48x48_641: 1122577823
+      Room_Builder_3d_walls_48x48_819: -149687234
+      Room_Builder_3d_walls_48x48_4: 653172074
+      Room_Builder_3d_walls_48x48_1045: -1156700964
+      Room_Builder_3d_walls_48x48_72: 154313591
+      Room_Builder_3d_walls_48x48_1108: 825204494
+      Room_Builder_3d_walls_48x48_748: 1201437222
+      Room_Builder_3d_walls_48x48_916: 780775200
+      Room_Builder_3d_walls_48x48_178: -1416716618
+      Room_Builder_3d_walls_48x48_358: -322770702
+      Room_Builder_3d_walls_48x48_792: -265699104
+      Room_Builder_3d_walls_48x48_885: 271796909
+      Room_Builder_3d_walls_48x48_33: 751362108
+      Room_Builder_3d_walls_48x48_192: 1422121269
+      Room_Builder_3d_walls_48x48_1220: -150166840
+      Room_Builder_3d_walls_48x48_129: -1691733903
+      Room_Builder_3d_walls_48x48_1213: -2128239140
+      Room_Builder_3d_walls_48x48_1249: -959880207
+      Room_Builder_3d_walls_48x48_891: -471195003
+      Room_Builder_3d_walls_48x48_1137: -1560967084
+      Room_Builder_3d_walls_48x48_321: 1730974214
+      Room_Builder_3d_walls_48x48_1263: 1112793948
+      Room_Builder_3d_walls_48x48_418: -416044554
+      Room_Builder_3d_walls_48x48_90: -962087357
+      Room_Builder_3d_walls_48x48_34: 1517506485
+      Room_Builder_3d_walls_48x48_455: 148724423
+      Room_Builder_3d_walls_48x48_1094: -1433110575
+      Room_Builder_3d_walls_48x48_702: -164997995
+      Room_Builder_3d_walls_48x48_730: -1314811743
+      Room_Builder_3d_walls_48x48_810: 1775361578
+      Room_Builder_3d_walls_48x48_318: 1482197169
+      Room_Builder_3d_walls_48x48_727: 989206727
+      Room_Builder_3d_walls_48x48_42: 727388607
+      Room_Builder_3d_walls_48x48_974: -356956617
+      Room_Builder_3d_walls_48x48_280: -1932458364
+      Room_Builder_3d_walls_48x48_319: 500679484
+      Room_Builder_3d_walls_48x48_437: -1530697489
+      Room_Builder_3d_walls_48x48_956: -913646791
+      Room_Builder_3d_walls_48x48_940: -1729248525
+      Room_Builder_3d_walls_48x48_441: -547450765
+      Room_Builder_3d_walls_48x48_946: 1337489475
+      Room_Builder_3d_walls_48x48_20: -1747149318
+      Room_Builder_3d_walls_48x48_551: 1962772098
+      Room_Builder_3d_walls_48x48_293: 1007516136
+      Room_Builder_3d_walls_48x48_1301: 568444751
+      Room_Builder_3d_walls_48x48_461: -924618109
+      Room_Builder_3d_walls_48x48_1180: 1559189612
+      Room_Builder_3d_walls_48x48_394: 746139887
+      Room_Builder_3d_walls_48x48_1269: -1911747389
+      Room_Builder_3d_walls_48x48_434: 1182979005
+      Room_Builder_3d_walls_48x48_1025: 1623749190
+      Room_Builder_3d_walls_48x48_961: -703069798
+      Room_Builder_3d_walls_48x48_307: -616897228
+      Room_Builder_3d_walls_48x48_1026: -905628507
+      Room_Builder_3d_walls_48x48_675: -407646323
+      Room_Builder_3d_walls_48x48_1221: 806805263
+      Room_Builder_3d_walls_48x48_305: 112139874
+      Room_Builder_3d_walls_48x48_501: -839105327
+      Room_Builder_3d_walls_48x48_775: -1517047151
+      Room_Builder_3d_walls_48x48_35: 1032039411
+      Room_Builder_3d_walls_48x48_369: 2086474020
+      Room_Builder_3d_walls_48x48_80: 1663465865
+      Room_Builder_3d_walls_48x48_188: 1856537516
+      Room_Builder_3d_walls_48x48_343: -1976058461
+      Room_Builder_3d_walls_48x48_365: 1048147725
+      Room_Builder_3d_walls_48x48_958: 632023801
+      Room_Builder_3d_walls_48x48_705: 1384096282
+      Room_Builder_3d_walls_48x48_161: 2040880748
+      Room_Builder_3d_walls_48x48_1029: 1671267186
+      Room_Builder_3d_walls_48x48_871: 1742804686
+      Room_Builder_3d_walls_48x48_960: 40606182
+      Room_Builder_3d_walls_48x48_1188: 1462008082
+      Room_Builder_3d_walls_48x48_823: 573081255
+      Room_Builder_3d_walls_48x48_423: 1756387549
+      Room_Builder_3d_walls_48x48_1294: -1907730730
+      Room_Builder_3d_walls_48x48_1135: -1520694846
+      Room_Builder_3d_walls_48x48_88: -434152284
+      Room_Builder_3d_walls_48x48_1057: 370706534
+      Room_Builder_3d_walls_48x48_5: -595306900
+      Room_Builder_3d_walls_48x48_324: -544065620
+      Room_Builder_3d_walls_48x48_565: 736233897
+      Room_Builder_3d_walls_48x48_1099: 477987319
+      Room_Builder_3d_walls_48x48_207: -2079442142
+      Room_Builder_3d_walls_48x48_239: 1499804093
+      Room_Builder_3d_walls_48x48_879: -985226919
+      Room_Builder_3d_walls_48x48_802: 1623113084
+      Room_Builder_3d_walls_48x48_1000: 830541859
+      Room_Builder_3d_walls_48x48_94: -1624996256
+      Room_Builder_3d_walls_48x48_1118: 1317739796
+      Room_Builder_3d_walls_48x48_523: 1578648363
+      Room_Builder_3d_walls_48x48_250: 1029124606
+      Room_Builder_3d_walls_48x48_366: -1022921520
+      Room_Builder_3d_walls_48x48_458: 945723696
+      Room_Builder_3d_walls_48x48_578: -419841803
+      Room_Builder_3d_walls_48x48_1124: 1590417048
+      Room_Builder_3d_walls_48x48_944: 2076064419
+      Room_Builder_3d_walls_48x48_666: -169703525
+      Room_Builder_3d_walls_48x48_645: -791499442
+      Room_Builder_3d_walls_48x48_1056: -1684861922
+      Room_Builder_3d_walls_48x48_467: 1809950390
+      Room_Builder_3d_walls_48x48_469: -1314847407
+      Room_Builder_3d_walls_48x48_522: -1697505904
+      Room_Builder_3d_walls_48x48_200: -578314948
+      Room_Builder_3d_walls_48x48_688: -586185594
+      Room_Builder_3d_walls_48x48_1019: 930191833
+      Room_Builder_3d_walls_48x48_697: -141791270
+      Room_Builder_3d_walls_48x48_313: 1170915671
+      Room_Builder_3d_walls_48x48_909: 1491030553
+      Room_Builder_3d_walls_48x48_1046: -1563216214
+      Room_Builder_3d_walls_48x48_721: -2040190193
+      Room_Builder_3d_walls_48x48_799: 1716455906
+      Room_Builder_3d_walls_48x48_281: -1877128588
+      Room_Builder_3d_walls_48x48_180: 1014828972
+      Room_Builder_3d_walls_48x48_484: -1622250597
+      Room_Builder_3d_walls_48x48_1234: -52064065
+      Room_Builder_3d_walls_48x48_646: -79628127
+      Room_Builder_3d_walls_48x48_538: -702978568
+      Room_Builder_3d_walls_48x48_726: 2012100137
+      Room_Builder_3d_walls_48x48_125: 733122577
+      Room_Builder_3d_walls_48x48_685: 877272549
+      Room_Builder_3d_walls_48x48_894: 1978290409
+      Room_Builder_3d_walls_48x48_1004: -798237527
+      Room_Builder_3d_walls_48x48_505: -921093240
+      Room_Builder_3d_walls_48x48_360: -1565857246
+      Room_Builder_3d_walls_48x48_737: -1647179008
+      Room_Builder_3d_walls_48x48_803: -1903326684
+      Room_Builder_3d_walls_48x48_886: -1296258026
+      Room_Builder_3d_walls_48x48_1138: 1238577780
+      Room_Builder_3d_walls_48x48_377: -2119499125
+      Room_Builder_3d_walls_48x48_327: 1646553115
+      Room_Builder_3d_walls_48x48_1305: -872426717
+      Room_Builder_3d_walls_48x48_1170: 42739376
+      Room_Builder_3d_walls_48x48_764: -103483919
+      Room_Builder_3d_walls_48x48_678: -726982743
+      Room_Builder_3d_walls_48x48_1154: 1060457899
+      Room_Builder_3d_walls_48x48_438: 702500607
+      Room_Builder_3d_walls_48x48_608: 814666704
+      Room_Builder_3d_walls_48x48_375: 143095930
+      Room_Builder_3d_walls_48x48_771: 2009248735
+      Room_Builder_3d_walls_48x48_817: 1519435754
+      Room_Builder_3d_walls_48x48_1229: 824551548
+      Room_Builder_3d_walls_48x48_245: -991580188
+      Room_Builder_3d_walls_48x48_1254: 454771317
+      Room_Builder_3d_walls_48x48_1204: 410668001
+      Room_Builder_3d_walls_48x48_56: 1325690402
+      Room_Builder_3d_walls_48x48_1235: -1557362401
+      Room_Builder_3d_walls_48x48_415: -1940455141
+      Room_Builder_3d_walls_48x48_621: -1590133570
+      Room_Builder_3d_walls_48x48_338: -647658985
+      Room_Builder_3d_walls_48x48_427: 1110865022
+      Room_Builder_3d_walls_48x48_1047: -418273769
+      Room_Builder_3d_walls_48x48_1083: -1182650450
+      Room_Builder_3d_walls_48x48_1084: -1137558867
+      Room_Builder_3d_walls_48x48_1120: -372355100
+      Room_Builder_3d_walls_48x48_230: 284611560
+      Room_Builder_3d_walls_48x48_432: 877485934
+      Room_Builder_3d_walls_48x48_236: -620237539
+      Room_Builder_3d_walls_48x48_949: 1107338506
+      Room_Builder_3d_walls_48x48_1068: 13788715
+      Room_Builder_3d_walls_48x48_85: 766469790
+      Room_Builder_3d_walls_48x48_622: -1968682124
+      Room_Builder_3d_walls_48x48_383: -369635453
+      Room_Builder_3d_walls_48x48_1286: 923409971
+      Room_Builder_3d_walls_48x48_1164: -1573439854
+      Room_Builder_3d_walls_48x48_8: -371737895
+      Room_Builder_3d_walls_48x48_414: -1478046228
+      Room_Builder_3d_walls_48x48_554: 1988548126
+      Room_Builder_3d_walls_48x48_189: -401618675
+      Room_Builder_3d_walls_48x48_329: -356763530
+      Room_Builder_3d_walls_48x48_128: 272799966
+      Room_Builder_3d_walls_48x48_444: -1039179226
+      Room_Builder_3d_walls_48x48_267: -494100748
+      Room_Builder_3d_walls_48x48_428: 773212007
+      Room_Builder_3d_walls_48x48_1280: 1825809283
+      Room_Builder_3d_walls_48x48_1244: 1360781581
+      Room_Builder_3d_walls_48x48_373: -3454538
+      Room_Builder_3d_walls_48x48_515: 1245671435
+      Room_Builder_3d_walls_48x48_121: -84279480
+      Room_Builder_3d_walls_48x48_247: -58824473
+      Room_Builder_3d_walls_48x48_902: 1288550594
+      Room_Builder_3d_walls_48x48_363: 1776933171
+      Room_Builder_3d_walls_48x48_859: -114371904
+      Room_Builder_3d_walls_48x48_1114: 1344043758
+      Room_Builder_3d_walls_48x48_164: -1120994019
+      Room_Builder_3d_walls_48x48_431: 1756503294
+      Room_Builder_3d_walls_48x48_453: -505372665
+      Room_Builder_3d_walls_48x48_746: 936641143
+      Room_Builder_3d_walls_48x48_197: 460480338
+      Room_Builder_3d_walls_48x48_286: -659333102
+      Room_Builder_3d_walls_48x48_679: -1120775908
+      Room_Builder_3d_walls_48x48_718: -2058715793
+      Room_Builder_3d_walls_48x48_170: 731981827
+      Room_Builder_3d_walls_48x48_633: -2076854935
+      Room_Builder_3d_walls_48x48_1133: -944748156
+      Room_Builder_3d_walls_48x48_1015: -201474750
+      Room_Builder_3d_walls_48x48_605: -2108511342
+      Room_Builder_3d_walls_48x48_658: -1241802137
+      Room_Builder_3d_walls_48x48_739: -1750371949
+      Room_Builder_3d_walls_48x48_1014: -230779169
+      Room_Builder_3d_walls_48x48_333: -1222201550
+      Room_Builder_3d_walls_48x48_350: -946692298
+      Room_Builder_3d_walls_48x48_303: -598283627
+      Room_Builder_3d_walls_48x48_1203: 224544238
+      Room_Builder_3d_walls_48x48_709: -1591982804
+      Room_Builder_3d_walls_48x48_127: -1511055779
+      Room_Builder_3d_walls_48x48_756: 1021201749
+      Room_Builder_3d_walls_48x48_172: -1717655097
+      Room_Builder_3d_walls_48x48_609: -1024808215
+      Room_Builder_3d_walls_48x48_450: 110148841
+      Room_Builder_3d_walls_48x48_1093: -935295146
+      Room_Builder_3d_walls_48x48_758: -853018637
+      Room_Builder_3d_walls_48x48_1111: -1996424834
+      Room_Builder_3d_walls_48x48_140: -1425397364
+      Room_Builder_3d_walls_48x48_67: 332403634
+      Room_Builder_3d_walls_48x48_374: 1752282347
+      Room_Builder_3d_walls_48x48_214: -2092265679
+      Room_Builder_3d_walls_48x48_448: 1052944821
+      Room_Builder_3d_walls_48x48_520: -1939804412
+      Room_Builder_3d_walls_48x48_534: 1989136467
+      Room_Builder_3d_walls_48x48_1299: -955270539
+      Room_Builder_3d_walls_48x48_800: -2042837879
+      Room_Builder_3d_walls_48x48_1306: -379354462
+      Room_Builder_3d_walls_48x48_510: 914587624
+      Room_Builder_3d_walls_48x48_99: 1829219101
+      Room_Builder_3d_walls_48x48_135: -553685723
+      Room_Builder_3d_walls_48x48_310: -1768619926
+      Room_Builder_3d_walls_48x48_1252: 644502154
+      Room_Builder_3d_walls_48x48_955: -403145203
+      Room_Builder_3d_walls_48x48_618: -1964995865
+      Room_Builder_3d_walls_48x48_925: -1586625557
+      Room_Builder_3d_walls_48x48_13: 283027458
+      Room_Builder_3d_walls_48x48_732: -800928643
+      Room_Builder_3d_walls_48x48_757: 1845608200
+      Room_Builder_3d_walls_48x48_677: -1056252840
+      Room_Builder_3d_walls_48x48_908: -885765447
+      Room_Builder_3d_walls_48x48_300: 743784371
+      Room_Builder_3d_walls_48x48_533: 976125101
+      Room_Builder_3d_walls_48x48_725: -1777316455
+      Room_Builder_3d_walls_48x48_1246: 384383517
+      Room_Builder_3d_walls_48x48_720: -171774600
+      Room_Builder_3d_walls_48x48_864: -71556151
+      Room_Builder_3d_walls_48x48_1237: -1874147529
+      Room_Builder_3d_walls_48x48_876: -909820945
+      Room_Builder_3d_walls_48x48_171: 157857753
+      Room_Builder_3d_walls_48x48_541: 1192039826
+      Room_Builder_3d_walls_48x48_168: 1771266399
+      Room_Builder_3d_walls_48x48_472: -968915223
+      Room_Builder_3d_walls_48x48_0: 53715156
+      Room_Builder_3d_walls_48x48_1248: -1245496738
+      Room_Builder_3d_walls_48x48_719: -671090192
+      Room_Builder_3d_walls_48x48_632: 926567146
+      Room_Builder_3d_walls_48x48_298: 541361284
+      Room_Builder_3d_walls_48x48_347: -1248339801
+      Room_Builder_3d_walls_48x48_809: -961834607
+      Room_Builder_3d_walls_48x48_571: -1062359710
+      Room_Builder_3d_walls_48x48_884: -1796662682
+      Room_Builder_3d_walls_48x48_743: -441173311
+      Room_Builder_3d_walls_48x48_98: 2068597759
+      Room_Builder_3d_walls_48x48_594: -163802355
+      Room_Builder_3d_walls_48x48_821: -317964519
+      Room_Builder_3d_walls_48x48_1290: -1048796083
+      Room_Builder_3d_walls_48x48_1157: -5134193
+      Room_Builder_3d_walls_48x48_1191: -1626981878
+      Room_Builder_3d_walls_48x48_118: -1325152399
+      Room_Builder_3d_walls_48x48_315: 1260297107
+      Room_Builder_3d_walls_48x48_1195: 1144500910
+      Room_Builder_3d_walls_48x48_1145: 1205077364
+      Room_Builder_3d_walls_48x48_691: -1025857456
+      Room_Builder_3d_walls_48x48_751: 559853643
+      Room_Builder_3d_walls_48x48_965: -957576319
+      Room_Builder_3d_walls_48x48_157: 1438920889
+      Room_Builder_3d_walls_48x48_614: -1990489782
+      Room_Builder_3d_walls_48x48_179: -299115688
+      Room_Builder_3d_walls_48x48_1245: -284249438
+      Room_Builder_3d_walls_48x48_323: 221677929
+      Room_Builder_3d_walls_48x48_301: 1437285893
+      Room_Builder_3d_walls_48x48_17: -1327495333
+      Room_Builder_3d_walls_48x48_50: 1627125408
+      Room_Builder_3d_walls_48x48_117: 170228183
+      Room_Builder_3d_walls_48x48_112: 49748542
+      Room_Builder_3d_walls_48x48_865: 990392466
+      Room_Builder_3d_walls_48x48_482: -979081317
+      Room_Builder_3d_walls_48x48_637: -1184189114
+      Room_Builder_3d_walls_48x48_547: 40512819
+      Room_Builder_3d_walls_48x48_793: -853777526
+      Room_Builder_3d_walls_48x48_362: 2106625390
+      Room_Builder_3d_walls_48x48_276: -1397832082
+      Room_Builder_3d_walls_48x48_430: 1319476416
+      Room_Builder_3d_walls_48x48_562: -289705588
+      Room_Builder_3d_walls_48x48_422: -332510946
+      Room_Builder_3d_walls_48x48_1002: 468110221
+      Room_Builder_3d_walls_48x48_745: -1645057476
+      Room_Builder_3d_walls_48x48_392: 596504510
+      Room_Builder_3d_walls_48x48_1205: -1233681346
+      Room_Builder_3d_walls_48x48_198: 2005112827
+      Room_Builder_3d_walls_48x48_1142: -220775525
+      Room_Builder_3d_walls_48x48_1038: -1975990434
+      Room_Builder_3d_walls_48x48_500: 1745579439
+      Room_Builder_3d_walls_48x48_290: 497190395
+      Room_Builder_3d_walls_48x48_6: -1446926638
+      Room_Builder_3d_walls_48x48_791: -1496464667
+      Room_Builder_3d_walls_48x48_1: 609748220
+      Room_Builder_3d_walls_48x48_176: 665848018
+      Room_Builder_3d_walls_48x48_459: 2086738256
+      Room_Builder_3d_walls_48x48_1173: 1382927455
+      Room_Builder_3d_walls_48x48_248: -1486163303
+      Room_Builder_3d_walls_48x48_195: 1012187348
+      Room_Builder_3d_walls_48x48_524: 204468035
+      Room_Builder_3d_walls_48x48_133: 1526761764
+      Room_Builder_3d_walls_48x48_1243: -1460395589
+      Room_Builder_3d_walls_48x48_87: -47587530
+      Room_Builder_3d_walls_48x48_625: -2108522498
+      Room_Builder_3d_walls_48x48_880: -2075657665
+      Room_Builder_3d_walls_48x48_1189: -1400617319
+      Room_Builder_3d_walls_48x48_546: 854778953
+      Room_Builder_3d_walls_48x48_19: 650460202
+      Room_Builder_3d_walls_48x48_102: 16250348
+      Room_Builder_3d_walls_48x48_1148: 1695510047
+      Room_Builder_3d_walls_48x48_218: -1868275242
+      Room_Builder_3d_walls_48x48_1035: -897889467
+      Room_Builder_3d_walls_48x48_1210: -1757160733
+      Room_Builder_3d_walls_48x48_787: 1395870407
+      Room_Builder_3d_walls_48x48_75: 363983509
+      Room_Builder_3d_walls_48x48_18: 541663286
+      Room_Builder_3d_walls_48x48_560: -1706830579
+      Room_Builder_3d_walls_48x48_74: -2112865093
+      Room_Builder_3d_walls_48x48_564: 367299888
+      Room_Builder_3d_walls_48x48_514: 1838511988
+      Room_Builder_3d_walls_48x48_312: 820396014
+      Room_Builder_3d_walls_48x48_481: 482992830
+      Room_Builder_3d_walls_48x48_160: 1548309623
+      Room_Builder_3d_walls_48x48_624: 295612547
+      Room_Builder_3d_walls_48x48_445: -2134564408
+      Room_Builder_3d_walls_48x48_722: -1490096784
+      Room_Builder_3d_walls_48x48_409: -2141304004
+      Room_Builder_3d_walls_48x48_291: 828233680
+      Room_Builder_3d_walls_48x48_680: -1636509841
+      Room_Builder_3d_walls_48x48_417: -637931947
+      Room_Builder_3d_walls_48x48_395: 534391574
+      Room_Builder_3d_walls_48x48_1207: 1100195168
+      Room_Builder_3d_walls_48x48_1033: 655777600
+      Room_Builder_3d_walls_48x48_612: -1347045534
+      Room_Builder_3d_walls_48x48_690: -2126286959
+      Room_Builder_3d_walls_48x48_79: 826790497
+      Room_Builder_3d_walls_48x48_149: 1855604604
+      Room_Builder_3d_walls_48x48_1011: 1360801557
+      Room_Builder_3d_walls_48x48_478: -1860175398
+      Room_Builder_3d_walls_48x48_134: -1295581045
+      Room_Builder_3d_walls_48x48_521: 1370312631
+      Room_Builder_3d_walls_48x48_639: -662695260
+      Room_Builder_3d_walls_48x48_1080: -1330020366
+      Room_Builder_3d_walls_48x48_674: -627224439
+      Room_Builder_3d_walls_48x48_295: 730899280
+      Room_Builder_3d_walls_48x48_136: -1208629946
+      Room_Builder_3d_walls_48x48_552: 748893597
+      Room_Builder_3d_walls_48x48_904: -779583060
+      Room_Builder_3d_walls_48x48_23: 343958497
+      Room_Builder_3d_walls_48x48_656: -1508885469
+      Room_Builder_3d_walls_48x48_1177: 629186407
+      Room_Builder_3d_walls_48x48_221: 1028794309
+      Room_Builder_3d_walls_48x48_341: 1366967733
+      Room_Builder_3d_walls_48x48_508: -1562390291
+      Room_Builder_3d_walls_48x48_661: 1417295687
+      Room_Builder_3d_walls_48x48_421: 697689827
+      Room_Builder_3d_walls_48x48_11: -671215146
+      Room_Builder_3d_walls_48x48_870: -1388226952
+      Room_Builder_3d_walls_48x48_893: -933610761
+      Room_Builder_3d_walls_48x48_227: -423056347
+      Room_Builder_3d_walls_48x48_1165: 411113987
+      Room_Builder_3d_walls_48x48_686: 1720097055
+      Room_Builder_3d_walls_48x48_266: -14300603
+      Room_Builder_3d_walls_48x48_1202: -413937103
+      Room_Builder_3d_walls_48x48_749: -1327512950
+      Room_Builder_3d_walls_48x48_1239: 279977121
+      Room_Builder_3d_walls_48x48_92: 1970020906
+      Room_Builder_3d_walls_48x48_66: -999457926
+      Room_Builder_3d_walls_48x48_598: 1736333179
+      Room_Builder_3d_walls_48x48_878: 154925515
+      Room_Builder_3d_walls_48x48_815: -245086089
+      Room_Builder_3d_walls_48x48_59: -460305012
+      Room_Builder_3d_walls_48x48_952: 8501001
+      Room_Builder_3d_walls_48x48_850: 2066532465
+      Room_Builder_3d_walls_48x48_994: -458424192
+      Room_Builder_3d_walls_48x48_159: 1808647293
+      Room_Builder_3d_walls_48x48_1072: -2023548482
+      Room_Builder_3d_walls_48x48_64: -1144922618
+      Room_Builder_3d_walls_48x48_945: 426854743
+      Room_Builder_3d_walls_48x48_848: -1829001839
+      Room_Builder_3d_walls_48x48_1125: 757450305
+      Room_Builder_3d_walls_48x48_12: 1016049035
+      Room_Builder_3d_walls_48x48_93: 20208501
+      Room_Builder_3d_walls_48x48_196: 1733783382
+      Room_Builder_3d_walls_48x48_853: 122757756
+      Room_Builder_3d_walls_48x48_1255: -1530093914
+      Room_Builder_3d_walls_48x48_717: -27888171
+      Room_Builder_3d_walls_48x48_154: -1585016535
+      Room_Builder_3d_walls_48x48_1218: -728426623
+      Room_Builder_3d_walls_48x48_486: -2083828569
+      Room_Builder_3d_walls_48x48_512: 32003769
+      Room_Builder_3d_walls_48x48_1174: -1812419357
+      Room_Builder_3d_walls_48x48_738: 178161394
+      Room_Builder_3d_walls_48x48_635: 2110428313
+      Room_Builder_3d_walls_48x48_650: -1131887981
+      Room_Builder_3d_walls_48x48_596: 592716402
+      Room_Builder_3d_walls_48x48_1160: 1316458630
+      Room_Builder_3d_walls_48x48_1117: -1459057446
+      Room_Builder_3d_walls_48x48_174: 2022521092
+      Room_Builder_3d_walls_48x48_973: 180746763
+      Room_Builder_3d_walls_48x48_1187: -603013523
+      Room_Builder_3d_walls_48x48_638: 739672629
+      Room_Builder_3d_walls_48x48_3: 384326404
+      Room_Builder_3d_walls_48x48_900: 1098225629
+      Room_Builder_3d_walls_48x48_44: -145622280
+      Room_Builder_3d_walls_48x48_502: 1071358123
+      Room_Builder_3d_walls_48x48_238: -845395803
+      Room_Builder_3d_walls_48x48_1012: 1645384596
+      Room_Builder_3d_walls_48x48_240: -1660400298
+      Room_Builder_3d_walls_48x48_1020: -1442387707
+      Room_Builder_3d_walls_48x48_811: 1695681790
+      Room_Builder_3d_walls_48x48_1222: 922358215
+      Room_Builder_3d_walls_48x48_667: -1216803156
+      Room_Builder_3d_walls_48x48_32: 341728300
+      Room_Builder_3d_walls_48x48_734: -1940167731
+      Room_Builder_3d_walls_48x48_1171: -1116481257
+      Room_Builder_3d_walls_48x48_980: -1471329235
+      Room_Builder_3d_walls_48x48_1069: 919756698
+      Room_Builder_3d_walls_48x48_932: 499672052
+      Room_Builder_3d_walls_48x48_530: 1288011085
+      Room_Builder_3d_walls_48x48_356: -1006904565
+      Room_Builder_3d_walls_48x48_1048: -1269545967
+      Room_Builder_3d_walls_48x48_1116: 114546497
+      Room_Builder_3d_walls_48x48_736: 2038909872
+      Room_Builder_3d_walls_48x48_606: -1830043406
+      Room_Builder_3d_walls_48x48_340: -2006541500
+      Room_Builder_3d_walls_48x48_841: -447013887
+      Room_Builder_3d_walls_48x48_339: 1215510013
+      Room_Builder_3d_walls_48x48_818: -1915633098
+      Room_Builder_3d_walls_48x48_947: -48393304
+      Room_Builder_3d_walls_48x48_114: -1038410854
+      Room_Builder_3d_walls_48x48_1126: -1781978445
+      Room_Builder_3d_walls_48x48_147: 2145346820
+      Room_Builder_3d_walls_48x48_123: 241549669
+      Room_Builder_3d_walls_48x48_116: 1773359373
+      Room_Builder_3d_walls_48x48_741: 1001023394
+      Room_Builder_3d_walls_48x48_1251: 202300475
+      Room_Builder_3d_walls_48x48_663: -1795275434
+      Room_Builder_3d_walls_48x48_1146: -631945934
+      Room_Builder_3d_walls_48x48_9: 98565134
+      Room_Builder_3d_walls_48x48_337: -115234778
+      Room_Builder_3d_walls_48x48_289: -1786898057
+      Room_Builder_3d_walls_48x48_1268: 1576865277
+      Room_Builder_3d_walls_48x48_824: 342531567
+      Room_Builder_3d_walls_48x48_996: -880818454
+      Room_Builder_3d_walls_48x48_235: 280346579
+      Room_Builder_3d_walls_48x48_626: 1730318251
+      Room_Builder_3d_walls_48x48_998: -28247207
+      Room_Builder_3d_walls_48x48_1051: -1683685877
+      Room_Builder_3d_walls_48x48_54: -1280649289
+      Room_Builder_3d_walls_48x48_744: -1666981839
+      Room_Builder_3d_walls_48x48_255: -120807567
+      Room_Builder_3d_walls_48x48_278: -39868007
+      Room_Builder_3d_walls_48x48_299: -1792470508
+      Room_Builder_3d_walls_48x48_277: 601608835
+      Room_Builder_3d_walls_48x48_320: 1502329591
+      Room_Builder_3d_walls_48x48_194: 584278106
+      Room_Builder_3d_walls_48x48_268: 824757890
+      Room_Builder_3d_walls_48x48_216: -1597525821
+      Room_Builder_3d_walls_48x48_918: -152772610
+      Room_Builder_3d_walls_48x48_367: 145419963
+      Room_Builder_3d_walls_48x48_899: 58615202
+      Room_Builder_3d_walls_48x48_232: 656186196
+      Room_Builder_3d_walls_48x48_1098: -1667017683
+      Room_Builder_3d_walls_48x48_975: -1008388228
+      Room_Builder_3d_walls_48x48_449: -2042567661
+      Room_Builder_3d_walls_48x48_563: 1204339259
+      Room_Builder_3d_walls_48x48_1282: -2109630693
+      Room_Builder_3d_walls_48x48_835: 1557942220
+      Room_Builder_3d_walls_48x48_420: -266140443
+      Room_Builder_3d_walls_48x48_357: -2012403405
+      Room_Builder_3d_walls_48x48_599: -1294599001
+      Room_Builder_3d_walls_48x48_348: 2053932751
+      Room_Builder_3d_walls_48x48_408: -1049132982
+      Room_Builder_3d_walls_48x48_1304: 339287127
+      Room_Builder_3d_walls_48x48_912: 847157671
+      Room_Builder_3d_walls_48x48_982: -1714614493
+      Room_Builder_3d_walls_48x48_924: -1795103951
+      Room_Builder_3d_walls_48x48_1214: 54405064
+      Room_Builder_3d_walls_48x48_442: 492245131
+      Room_Builder_3d_walls_48x48_1101: -2093768858
+      Room_Builder_3d_walls_48x48_692: -1832163861
+      Room_Builder_3d_walls_48x48_1179: 1257947034
+      Room_Builder_3d_walls_48x48_108: 204731764
+      Room_Builder_3d_walls_48x48_52: -35690229
+      Room_Builder_3d_walls_48x48_25: -1760373048
+      Room_Builder_3d_walls_48x48_537: 1729621907
+      Room_Builder_3d_walls_48x48_237: -510419695
+      Room_Builder_3d_walls_48x48_698: -1190673482
+      Room_Builder_3d_walls_48x48_336: -2012679082
+      Room_Builder_3d_walls_48x48_389: 856692658
+      Room_Builder_3d_walls_48x48_24: -1082954861
+      Room_Builder_3d_walls_48x48_582: -519966281
+      Room_Builder_3d_walls_48x48_493: -1390027763
+      Room_Builder_3d_walls_48x48_829: 2103540905
+      Room_Builder_3d_walls_48x48_897: -778410954
+      Room_Builder_3d_walls_48x48_833: 496924395
+      Room_Builder_3d_walls_48x48_788: 1802653158
+      Room_Builder_3d_walls_48x48_145: 2102763792
+      Room_Builder_3d_walls_48x48_1070: -1317732150
+      Room_Builder_3d_walls_48x48_898: -357597954
+      Room_Builder_3d_walls_48x48_185: -1279199451
+      Room_Builder_3d_walls_48x48_1156: 22248736
+      Room_Builder_3d_walls_48x48_1193: -501934712
+      Room_Builder_3d_walls_48x48_86: 2135859155
+      Room_Builder_3d_walls_48x48_451: -120103181
+      Room_Builder_3d_walls_48x48_1271: -1957129583
+      Room_Builder_3d_walls_48x48_29: -918977624
+      Room_Builder_3d_walls_48x48_972: 1110531023
+      Room_Builder_3d_walls_48x48_1185: 1709043803
+      Room_Builder_3d_walls_48x48_1023: -920397529
+      Room_Builder_3d_walls_48x48_942: -207032564
+      Room_Builder_3d_walls_48x48_69: -1775566001
+      Room_Builder_3d_walls_48x48_308: -1872051401
+      Room_Builder_3d_walls_48x48_619: -912856118
+      Room_Builder_3d_walls_48x48_100: 324569497
+      Room_Builder_3d_walls_48x48_370: 1979676531
+      Room_Builder_3d_walls_48x48_700: 195821477
+      Room_Builder_3d_walls_48x48_385: -1661887636
+      Room_Builder_3d_walls_48x48_1223: 1127550875
+      Room_Builder_3d_walls_48x48_683: -1549840949
+      Room_Builder_3d_walls_48x48_640: -1153956517
+      Room_Builder_3d_walls_48x48_1159: 961209119
+      Room_Builder_3d_walls_48x48_1209: 1839334942
+      Room_Builder_3d_walls_48x48_860: -534030851
+      Room_Builder_3d_walls_48x48_209: -1218819144
+      Room_Builder_3d_walls_48x48_831: -830989342
+      Room_Builder_3d_walls_48x48_1075: 1712709866
+      Room_Builder_3d_walls_48x48_15: 213811634
+      Room_Builder_3d_walls_48x48_1182: -948926364
+      Room_Builder_3d_walls_48x48_531: -1310989011
+      Room_Builder_3d_walls_48x48_1009: 646805584
+      Room_Builder_3d_walls_48x48_910: -1557658891
+      Room_Builder_3d_walls_48x48_61: -578865484
+      Room_Builder_3d_walls_48x48_224: -1484320776
+      Room_Builder_3d_walls_48x48_1131: -790405933
+      Room_Builder_3d_walls_48x48_895: -1358753692
+      Room_Builder_3d_walls_48x48_1073: -493449212
+      Room_Builder_3d_walls_48x48_966: 327695661
+      Room_Builder_3d_walls_48x48_527: -939177371
+      Room_Builder_3d_walls_48x48_634: 1956220395
+      Room_Builder_3d_walls_48x48_1049: 1351441470
+      Room_Builder_3d_walls_48x48_1232: -1652602759
+      Room_Builder_3d_walls_48x48_264: -1561704143
+      Room_Builder_3d_walls_48x48_1112: 1886526988
+      Room_Builder_3d_walls_48x48_1242: 978482615
+      Room_Builder_3d_walls_48x48_242: -1781395246
+      Room_Builder_3d_walls_48x48_253: 1606789126
+      Room_Builder_3d_walls_48x48_1194: 893920249
+      Room_Builder_3d_walls_48x48_83: 1969791346
+      Room_Builder_3d_walls_48x48_144: -987140311
+      Room_Builder_3d_walls_48x48_96: -1545863618
+      Room_Builder_3d_walls_48x48_63: -1858563064
+      Room_Builder_3d_walls_48x48_935: -1399268986
+      Room_Builder_3d_walls_48x48_526: -637496591
+      Room_Builder_3d_walls_48x48_202: 861219939
+      Room_Builder_3d_walls_48x48_575: 1881446294
+      Room_Builder_3d_walls_48x48_28: 2037898173
+      Room_Builder_3d_walls_48x48_1211: -214346264
+      Room_Builder_3d_walls_48x48_789: 1828913637
+      Room_Builder_3d_walls_48x48_838: 410721315
+      Room_Builder_3d_walls_48x48_1032: -811914026
+      Room_Builder_3d_walls_48x48_1085: -1662760160
+      Room_Builder_3d_walls_48x48_759: -26376644
+      Room_Builder_3d_walls_48x48_907: -311875730
+      Room_Builder_3d_walls_48x48_368: -206508312
+      Room_Builder_3d_walls_48x48_1143: 417897595
+      Room_Builder_3d_walls_48x48_1091: 293328294
+      Room_Builder_3d_walls_48x48_1197: -503637666
+      Room_Builder_3d_walls_48x48_53: 1709936824
+      Room_Builder_3d_walls_48x48_78: -1707131947
+      Room_Builder_3d_walls_48x48_906: 400651038
+      Room_Builder_3d_walls_48x48_978: -707580141
+      Room_Builder_3d_walls_48x48_497: -1054564989
+      Room_Builder_3d_walls_48x48_31: -2140005675
+      Room_Builder_3d_walls_48x48_463: -586508988
+      Room_Builder_3d_walls_48x48_304: -1995010806
+      Room_Builder_3d_walls_48x48_173: 1146540490
+      Room_Builder_3d_walls_48x48_699: -2130241691
+      Room_Builder_3d_walls_48x48_665: 832755695
+      Room_Builder_3d_walls_48x48_105: -1566574423
+      Room_Builder_3d_walls_48x48_969: 1909136742
+      Room_Builder_3d_walls_48x48_807: -888161814
+      Room_Builder_3d_walls_48x48_1181: -955260077
+      Room_Builder_3d_walls_48x48_1161: 577702611
+      Room_Builder_3d_walls_48x48_73: 1646696480
+      Room_Builder_3d_walls_48x48_279: -436625380
+      Room_Builder_3d_walls_48x48_211: -750921435
+      Room_Builder_3d_walls_48x48_981: 2143318206
+      Room_Builder_3d_walls_48x48_104: -1316530657
+      Room_Builder_3d_walls_48x48_1078: -633877265
+      Room_Builder_3d_walls_48x48_735: -69865027
+      Room_Builder_3d_walls_48x48_937: -2144749905
+      Room_Builder_3d_walls_48x48_1144: 1590510232
+      Room_Builder_3d_walls_48x48_1281: -43172702
+      Room_Builder_3d_walls_48x48_1291: -1952226131
+      Room_Builder_3d_walls_48x48_1230: -366887525
+      Room_Builder_3d_walls_48x48_477: -874087171
+      Room_Builder_3d_walls_48x48_783: 386346793
+      Room_Builder_3d_walls_48x48_314: -1590604331
+      Room_Builder_3d_walls_48x48_561: -604795705
+      Room_Builder_3d_walls_48x48_662: 1079337658
+      Room_Builder_3d_walls_48x48_557: 302067680
+      Room_Builder_3d_walls_48x48_1018: 188028155
+      Room_Builder_3d_walls_48x48_269: -781552063
+      Room_Builder_3d_walls_48x48_668: -1530459843
+      Room_Builder_3d_walls_48x48_765: 835020406
+      Room_Builder_3d_walls_48x48_246: -2133117613
+      Room_Builder_3d_walls_48x48_676: -264416663
+      Room_Builder_3d_walls_48x48_959: -249194059
+      Room_Builder_3d_walls_48x48_1089: -277098074
+      Room_Builder_3d_walls_48x48_297: 152714122
+      Room_Builder_3d_walls_48x48_962: -1083215023
+      Room_Builder_3d_walls_48x48_1224: 1096228364
+      Room_Builder_3d_walls_48x48_475: 1034479254
+      Room_Builder_3d_walls_48x48_948: -1094760975
+      Room_Builder_3d_walls_48x48_379: 1482840057
+      Room_Builder_3d_walls_48x48_151: -1225518331
+      Room_Builder_3d_walls_48x48_391: -1779451230
+      Room_Builder_3d_walls_48x48_976: 1478908923
+      Room_Builder_3d_walls_48x48_344: -1360390528
+      Room_Builder_3d_walls_48x48_593: 1618579152
+      Room_Builder_3d_walls_48x48_1016: 914981032
+      Room_Builder_3d_walls_48x48_1169: -599798257
+      Room_Builder_3d_walls_48x48_388: 29957741
+      Room_Builder_3d_walls_48x48_471: 1461429757
+      Room_Builder_3d_walls_48x48_1103: 1688241177
+      Room_Builder_3d_walls_48x48_828: 936889168
+      Room_Builder_3d_walls_48x48_1022: -761360865
+      Room_Builder_3d_walls_48x48_1283: 1597530988
+      Room_Builder_3d_walls_48x48_999: 2141102531
+      Room_Builder_3d_walls_48x48_1178: 58676656
+      Room_Builder_3d_walls_48x48_1208: -793907716
+      Room_Builder_3d_walls_48x48_914: 2133828720
+      Room_Builder_3d_walls_48x48_138: 973345540
+      Room_Builder_3d_walls_48x48_496: 1275699593
+      Room_Builder_3d_walls_48x48_651: -2016074404
+      Room_Builder_3d_walls_48x48_687: -1991521692
+      Room_Builder_3d_walls_48x48_468: -673600284
+      Room_Builder_3d_walls_48x48_967: -1847028111
+      Room_Builder_3d_walls_48x48_334: 1433018033
+      Room_Builder_3d_walls_48x48_143: -722313177
+      Room_Builder_3d_walls_48x48_689: -1097036040
+      Room_Builder_3d_walls_48x48_165: 715983349
+      Room_Builder_3d_walls_48x48_778: 1481320539
+      Room_Builder_3d_walls_48x48_191: -802448021
+      Room_Builder_3d_walls_48x48_1259: 1459624979
+      Room_Builder_3d_walls_48x48_1198: 1192561935
+      Room_Builder_3d_walls_48x48_1087: -606287246
+      Room_Builder_3d_walls_48x48_115: 874321092
+      Room_Builder_3d_walls_48x48_452: -1954472321
+      Room_Builder_3d_walls_48x48_1155: -2111856451
+      Room_Builder_3d_walls_48x48_436: -1902644408
+      Room_Builder_3d_walls_48x48_797: 2125180812
+      Room_Builder_3d_walls_48x48_435: 1642545566
+      Room_Builder_3d_walls_48x48_433: 700681295
+      Room_Builder_3d_walls_48x48_586: -910560753
+      Room_Builder_3d_walls_48x48_704: -1535562989
+      Room_Builder_3d_walls_48x48_175: 2067356498
+      Room_Builder_3d_walls_48x48_326: 372282431
+      Room_Builder_3d_walls_48x48_882: 1187621336
+      Room_Builder_3d_walls_48x48_249: -1810345619
+      Room_Builder_3d_walls_48x48_146: 821378905
+      Room_Builder_3d_walls_48x48_903: -1584793055
+      Room_Builder_3d_walls_48x48_863: -24322394
+      Room_Builder_3d_walls_48x48_694: 1312963839
+      Room_Builder_3d_walls_48x48_874: 120892915
+      Room_Builder_3d_walls_48x48_888: -887562533
+      Room_Builder_3d_walls_48x48_968: -1531969232
+      Room_Builder_3d_walls_48x48_1277: 2000902021
+      Room_Builder_3d_walls_48x48_223: -1953913902
+      Room_Builder_3d_walls_48x48_380: 1757801530
+      Room_Builder_3d_walls_48x48_325: -926636562
+      Room_Builder_3d_walls_48x48_728: 1838936352
+      Room_Builder_3d_walls_48x48_1127: -1060656887
+      Room_Builder_3d_walls_48x48_1215: -1848573079
+      Room_Builder_3d_walls_48x48_137: 419074252
+      Room_Builder_3d_walls_48x48_782: -164821821
+      Room_Builder_3d_walls_48x48_723: -910858409
+      Room_Builder_3d_walls_48x48_776: 961225513
+      Room_Builder_3d_walls_48x48_492: 1045509120
+      Room_Builder_3d_walls_48x48_795: -1962234524
+      Room_Builder_3d_walls_48x48_55: -1681529870
+      Room_Builder_3d_walls_48x48_465: -518243479
+      Room_Builder_3d_walls_48x48_1150: -2059035873
+      Room_Builder_3d_walls_48x48_837: -1302825835
+      Room_Builder_3d_walls_48x48_752: 1657922461
+      Room_Builder_3d_walls_48x48_1233: -220678820
+      Room_Builder_3d_walls_48x48_953: -388061406
+      Room_Builder_3d_walls_48x48_559: -482955202
+      Room_Builder_3d_walls_48x48_1001: 1993771017
+      Room_Builder_3d_walls_48x48_259: -1125562274
+      Room_Builder_3d_walls_48x48_854: 1525563763
+      Room_Builder_3d_walls_48x48_572: -852423618
+      Room_Builder_3d_walls_48x48_410: 1889208259
+      Room_Builder_3d_walls_48x48_262: -2126694926
+      Room_Builder_3d_walls_48x48_611: -1431106490
+      Room_Builder_3d_walls_48x48_489: 349531510
+      Room_Builder_3d_walls_48x48_862: 1167818121
+      Room_Builder_3d_walls_48x48_544: 2077088711
+      Room_Builder_3d_walls_48x48_1121: -868368320
+      Room_Builder_3d_walls_48x48_1136: -193113428
+      Room_Builder_3d_walls_48x48_504: -145134958
+      Room_Builder_3d_walls_48x48_603: -1188726118
+      Room_Builder_3d_walls_48x48_846: -1780737847
+      Room_Builder_3d_walls_48x48_252: 809686682
+      Room_Builder_3d_walls_48x48_1007: 992036834
+      Room_Builder_3d_walls_48x48_110: -1891697903
+      Room_Builder_3d_walls_48x48_41: -1761150091
+      Room_Builder_3d_walls_48x48_142: -479213766
+      Room_Builder_3d_walls_48x48_855: 271094930
+      Room_Builder_3d_walls_48x48_1228: 833225260
+      Room_Builder_3d_walls_48x48_845: 239676958
+      Room_Builder_3d_walls_48x48_354: 1603459526
+      Room_Builder_3d_walls_48x48_1102: -1562910883
+      Room_Builder_3d_walls_48x48_460: 1048197806
+      Room_Builder_3d_walls_48x48_426: -1119572662
+      Room_Builder_3d_walls_48x48_1010: 1093312161
+      Room_Builder_3d_walls_48x48_120: 1541353857
+      Room_Builder_3d_walls_48x48_516: -582110045
+      Room_Builder_3d_walls_48x48_820: 1595120055
+      Room_Builder_3d_walls_48x48_446: -135617675
+      Room_Builder_3d_walls_48x48_1059: -18103155
+      Room_Builder_3d_walls_48x48_701: 348419762
+      Room_Builder_3d_walls_48x48_393: -94575063
+      Room_Builder_3d_walls_48x48_670: 1940813316
+      Room_Builder_3d_walls_48x48_1206: -1250970472
+      Room_Builder_3d_walls_48x48_623: 2069518181
+      Room_Builder_3d_walls_48x48_1153: -280835080
+      Room_Builder_3d_walls_48x48_1241: 156322347
+      Room_Builder_3d_walls_48x48_963: -102989733
+      Room_Builder_3d_walls_48x48_951: -604060053
+      Room_Builder_3d_walls_48x48_553: 203316908
+      Room_Builder_3d_walls_48x48_556: -792667512
+      Room_Builder_3d_walls_48x48_425: -1386729706
+      Room_Builder_3d_walls_48x48_309: 1229352963
+      Room_Builder_3d_walls_48x48_71: -755204611
+      Room_Builder_3d_walls_48x48_583: -1826524721
+      Room_Builder_3d_walls_48x48_589: -872270970
+      Room_Builder_3d_walls_48x48_991: 1184249973
+      Room_Builder_3d_walls_48x48_970: 152420998
+      Room_Builder_3d_walls_48x48_270: 502988015
+      Room_Builder_3d_walls_48x48_595: 1175066843
+      Room_Builder_3d_walls_48x48_569: -1914312727
+      Room_Builder_3d_walls_48x48_1192: -173817740
+      Room_Builder_3d_walls_48x48_1217: -918174439
+      Room_Builder_3d_walls_48x48_412: -1376568396
+      Room_Builder_3d_walls_48x48_827: 1265477932
+      Room_Builder_3d_walls_48x48_413: -1673338850
+      Room_Builder_3d_walls_48x48_889: 1786621283
+      Room_Builder_3d_walls_48x48_1128: -553121336
+      Room_Builder_3d_walls_48x48_384: 1227076356
+      Room_Builder_3d_walls_48x48_654: -301365873
+      Room_Builder_3d_walls_48x48_1106: 1394559042
+      Room_Builder_3d_walls_48x48_1295: -752323742
+      Room_Builder_3d_walls_48x48_30: -956083266
+      Room_Builder_3d_walls_48x48_483: 1547814658
+      Room_Builder_3d_walls_48x48_1296: 788717688
+      Room_Builder_3d_walls_48x48_710: -642649423
+      Room_Builder_3d_walls_48x48_400: 1673606941
+      Room_Builder_3d_walls_48x48_954: -609105477
+      Room_Builder_3d_walls_48x48_1298: -1217254726
+      Room_Builder_3d_walls_48x48_1275: -1851425689
+      Room_Builder_3d_walls_48x48_1199: -921064312
+      Room_Builder_3d_walls_48x48_857: -281742328
+      Room_Builder_3d_walls_48x48_1130: 1163285005
+      Room_Builder_3d_walls_48x48_681: -773008207
+      Room_Builder_3d_walls_48x48_607: -950869628
+      Room_Builder_3d_walls_48x48_825: -758648331
+      Room_Builder_3d_walls_48x48_141: 1574625970
+      Room_Builder_3d_walls_48x48_345: -692046466
+      Room_Builder_3d_walls_48x48_631: -1347600140
+      Room_Builder_3d_walls_48x48_1172: 1587673058
+      Room_Builder_3d_walls_48x48_920: 1706504167
+      Room_Builder_3d_walls_48x48_1276: 1629400527
+      Room_Builder_3d_walls_48x48_822: 1483034462
+      Room_Builder_3d_walls_48x48_499: -1476237
+      Room_Builder_3d_walls_48x48_703: 1410398982
+      Room_Builder_3d_walls_48x48_1034: -977837848
+      Room_Builder_3d_walls_48x48_182: -1982879759
+      Room_Builder_3d_walls_48x48_509: -1697001060
+      Room_Builder_3d_walls_48x48_613: 1107150489
+      Room_Builder_3d_walls_48x48_177: 1310358915
+      Room_Builder_3d_walls_48x48_602: -222909424
+      Room_Builder_3d_walls_48x48_604: 224049810
+      Room_Builder_3d_walls_48x48_979: -942125916
+      Room_Builder_3d_walls_48x48_473: -185202946
+      Room_Builder_3d_walls_48x48_755: -565470205
+      Room_Builder_3d_walls_48x48_1100: -912761472
+      Room_Builder_3d_walls_48x48_416: -50189400
+      Room_Builder_3d_walls_48x48_567: 1244516559
+      Room_Builder_3d_walls_48x48_574: 778924551
+      Room_Builder_3d_walls_48x48_1113: -2020521278
+      Room_Builder_3d_walls_48x48_488: -1898003398
+      Room_Builder_3d_walls_48x48_1061: 528847099
+      Room_Builder_3d_walls_48x48_790: 1417400659
+      Room_Builder_3d_walls_48x48_740: -1652986773
+      Room_Builder_3d_walls_48x48_231: -1432182375
+      Room_Builder_3d_walls_48x48_1303: 1938206226
+      Room_Builder_3d_walls_48x48_1247: 1835025298
+      Room_Builder_3d_walls_48x48_1105: 1428631725
+      Room_Builder_3d_walls_48x48_119: -1568342154
+      Room_Builder_3d_walls_48x48_284: -326882678
+      Room_Builder_3d_walls_48x48_364: -856559801
+      Room_Builder_3d_walls_48x48_852: -1137591516
+      Room_Builder_3d_walls_48x48_282: -115000057
+      Room_Builder_3d_walls_48x48_659: 273097751
+      Room_Builder_3d_walls_48x48_1258: -1462085429
+      Room_Builder_3d_walls_48x48_1119: 1537084987
+      Room_Builder_3d_walls_48x48_1042: 350749761
+      Room_Builder_3d_walls_48x48_1006: 1105825934
+      Room_Builder_3d_walls_48x48_881: -1034369048
+      Room_Builder_3d_walls_48x48_834: -2025608279
+      Room_Builder_3d_walls_48x48_1123: 965746372
+      Room_Builder_3d_walls_48x48_1300: 1399111488
+      Room_Builder_3d_walls_48x48_1212: 1017837786
+      Room_Builder_3d_walls_48x48_219: -1641289020
+      Room_Builder_3d_walls_48x48_796: -1267991460
+      Room_Builder_3d_walls_48x48_407: 1829447091
+      Room_Builder_3d_walls_48x48_1076: 1545155179
+      Room_Builder_3d_walls_48x48_873: -1142997373
+      Room_Builder_3d_walls_48x48_1050: 305135939
+      Room_Builder_3d_walls_48x48_869: -1514143577
+      Room_Builder_3d_walls_48x48_1086: -1497839570
+      Room_Builder_3d_walls_48x48_130: -2103770527
+      Room_Builder_3d_walls_48x48_7: 25109318
+      Room_Builder_3d_walls_48x48_124: -1766627674
+      Room_Builder_3d_walls_48x48_476: -435464499
+      Room_Builder_3d_walls_48x48_36: -1874285023
+      Room_Builder_3d_walls_48x48_1256: -14585833
+      Room_Builder_3d_walls_48x48_805: -1603982616
+      Room_Builder_3d_walls_48x48_479: 188316133
+      Room_Builder_3d_walls_48x48_1273: 1426110778
+      Room_Builder_3d_walls_48x48_592: 2017182274
+      Room_Builder_3d_walls_48x48_938: 1607519012
+      Room_Builder_3d_walls_48x48_986: -843460998
+      Room_Builder_3d_walls_48x48_190: -1432717813
+      Room_Builder_3d_walls_48x48_507: -639291389
+      Room_Builder_3d_walls_48x48_285: -1122795538
+      Room_Builder_3d_walls_48x48_1077: -1319777159
+      Room_Builder_3d_walls_48x48_57: -1405936700
+      Room_Builder_3d_walls_48x48_287: 1145155368
+      Room_Builder_3d_walls_48x48_1095: 28194239
+      Room_Builder_3d_walls_48x48_399: 113622728
+      Room_Builder_3d_walls_48x48_753: 1486415964
+      Room_Builder_3d_walls_48x48_1226: -1398647091
+      Room_Builder_3d_walls_48x48_849: -1544428571
+      Room_Builder_3d_walls_48x48_779: 329997214
+      Room_Builder_3d_walls_48x48_695: -898537816
+      Room_Builder_3d_walls_48x48_931: 985261385
+      Room_Builder_3d_walls_48x48_1027: 353842352
+      Room_Builder_3d_walls_48x48_883: -1697886613
+      Room_Builder_3d_walls_48x48_570: -367508332
+      Room_Builder_3d_walls_48x48_1063: 315418618
+      Room_Builder_3d_walls_48x48_987: 1646487838
+      Room_Builder_3d_walls_48x48_1132: 1884912464
+      Room_Builder_3d_walls_48x48_615: -205862146
+      Room_Builder_3d_walls_48x48_1302: 1187537878
+      Room_Builder_3d_walls_48x48_930: 890313328
+      Room_Builder_3d_walls_48x48_1055: 1781641177
+      Room_Builder_3d_walls_48x48_532: -1362823270
+      Room_Builder_3d_walls_48x48_361: 1586926409
+      Room_Builder_3d_walls_48x48_941: -1701390440
+      Room_Builder_3d_walls_48x48_808: -117514445
+      Room_Builder_3d_walls_48x48_830: -1738141181
+      Room_Builder_3d_walls_48x48_1082: -881312924
+      Room_Builder_3d_walls_48x48_404: -1652765434
+      Room_Builder_3d_walls_48x48_766: -1077679255
+      Room_Builder_3d_walls_48x48_767: 1726764278
+      Room_Builder_3d_walls_48x48_167: 1548914236
+      Room_Builder_3d_walls_48x48_381: -835359483
+      Room_Builder_3d_walls_48x48_814: 1612864627
+      Room_Builder_3d_walls_48x48_760: -356186039
+      Room_Builder_3d_walls_48x48_222: -1098822338
+      Room_Builder_3d_walls_48x48_1297: 288282409
+      Room_Builder_3d_walls_48x48_1288: -315430622
+      Room_Builder_3d_walls_48x48_875: 2043279682
+      Room_Builder_3d_walls_48x48_770: 1439756504
+      Room_Builder_3d_walls_48x48_40: -282492564
+      Room_Builder_3d_walls_48x48_590: -1011383533
+      Room_Builder_3d_walls_48x48_934: -945098773
+      Room_Builder_3d_walls_48x48_591: -1303694266
+      Room_Builder_3d_walls_48x48_777: -239586821
+      Room_Builder_3d_walls_48x48_132: -1022880043
+      Room_Builder_3d_walls_48x48_896: -577355411
+      Room_Builder_3d_walls_48x48_587: -1609418783
+      Room_Builder_3d_walls_48x48_1064: 1626423688
+      Room_Builder_3d_walls_48x48_386: 348188627
+      Room_Builder_3d_walls_48x48_233: -130992210
+      Room_Builder_3d_walls_48x48_780: 2012826052
+      Room_Builder_3d_walls_48x48_928: -553694728
+      Room_Builder_3d_walls_48x48_724: -1641121423
+      Room_Builder_3d_walls_48x48_1257: -517016726
+      Room_Builder_3d_walls_48x48_731: -1621117777
+      Room_Builder_3d_walls_48x48_784: -835654526
+      Room_Builder_3d_walls_48x48_1079: 1474406877
+      Room_Builder_3d_walls_48x48_992: -1444297963
+      Room_Builder_3d_walls_48x48_1044: -2076567239
+      Room_Builder_3d_walls_48x48_653: -2016173557
+      Room_Builder_3d_walls_48x48_156: 521390862
+      Room_Builder_3d_walls_48x48_652: 2049666706
+      Room_Builder_3d_walls_48x48_693: -265284319
+      Room_Builder_3d_walls_48x48_921: 1725674208
+      Room_Builder_3d_walls_48x48_46: -325157889
+      Room_Builder_3d_walls_48x48_152: -180291965
+      Room_Builder_3d_walls_48x48_1058: -310958141
+      Room_Builder_3d_walls_48x48_813: -2034825812
+      Room_Builder_3d_walls_48x48_715: -1817325396
+      Room_Builder_3d_walls_48x48_1231: 1303988817
+      Room_Builder_3d_walls_48x48_642: -1014941698
+      Room_Builder_3d_walls_48x48_1307: -1477960018
+      Room_Builder_3d_walls_48x48_443: -749418081
+      Room_Builder_3d_walls_48x48_126: -456103567
+      Room_Builder_3d_walls_48x48_22: -1218291611
+      Room_Builder_3d_walls_48x48_801: -823826841
+      Room_Builder_3d_walls_48x48_754: 514730808
+      Room_Builder_3d_walls_48x48_84: -1760907703
+      Room_Builder_3d_walls_48x48_1200: 665820597
+      Room_Builder_3d_walls_48x48_1287: -1927906609
+      Room_Builder_3d_walls_48x48_462: -1674546927
+      Room_Builder_3d_walls_48x48_97: -1907468467
+      Room_Builder_3d_walls_48x48_199: -1523263158
+      Room_Builder_3d_walls_48x48_573: 2022332273
+      Room_Builder_3d_walls_48x48_1096: 150460385
+      Room_Builder_3d_walls_48x48_566: 1960952764
+      Room_Builder_3d_walls_48x48_203: -1505457765
+      Room_Builder_3d_walls_48x48_226: -163236227
+      Room_Builder_3d_walls_48x48_402: 1080250708
+      Room_Builder_3d_walls_48x48_655: 620716097
+      Room_Builder_3d_walls_48x48_798: -1538527013
+      Room_Builder_3d_walls_48x48_861: 1983499414
+      Room_Builder_3d_walls_48x48_330: 1654766743
+      Room_Builder_3d_walls_48x48_390: 2091169917
+      Room_Builder_3d_walls_48x48_1166: 1067397411
+      Room_Builder_3d_walls_48x48_816: -1747025457
+      Room_Builder_3d_walls_48x48_296: -693470039
+      Room_Builder_3d_walls_48x48_382: -440009386
+      Room_Builder_3d_walls_48x48_588: -92377911
+      Room_Builder_3d_walls_48x48_1289: 639556940
+      Room_Builder_3d_walls_48x48_163: 1300739605
+      Room_Builder_3d_walls_48x48_513: 1234102821
+      Room_Builder_3d_walls_48x48_217: -442863077
+      Room_Builder_3d_walls_48x48_10: 1115897016
+      Room_Builder_3d_walls_48x48_401: 143627703
+      Room_Builder_3d_walls_48x48_1054: -45884894
+      Room_Builder_3d_walls_48x48_485: -1782020225
+      Room_Builder_3d_walls_48x48_682: 1808034359
+      Room_Builder_3d_walls_48x48_671: 1854079549
+      Room_Builder_3d_walls_48x48_47: 357177786
+      Room_Builder_3d_walls_48x48_187: -488978820
+      Room_Builder_3d_walls_48x48_424: 1680886575
+      Room_Builder_3d_walls_48x48_1292: -286539937
+      Room_Builder_3d_walls_48x48_584: 619015678
+      Room_Builder_3d_walls_48x48_241: 35178170
+      Room_Builder_3d_walls_48x48_353: 1187117309
+      Room_Builder_3d_walls_48x48_440: -1738576826
+      Room_Builder_3d_walls_48x48_840: -1079696405
+      Room_Builder_3d_walls_48x48_1149: -900418536
+      Room_Builder_3d_walls_48x48_995: -1778609460
+      Room_Builder_3d_walls_48x48_1041: -1560270422
+      Room_Builder_3d_walls_48x48_91: -1292845457
+      Room_Builder_3d_walls_48x48_643: -2145865343
+      Room_Builder_3d_walls_48x48_419: -289437500
+      Room_Builder_3d_walls_48x48_261: 192310701
+      Room_Builder_3d_walls_48x48_1151: -1130990037
+      Room_Builder_3d_walls_48x48_867: -307991470
+      Room_Builder_3d_walls_48x48_1158: -676159877
+      Room_Builder_3d_walls_48x48_2: -1629769346
+      Room_Builder_3d_walls_48x48_243: 1718179472
+      Room_Builder_3d_walls_48x48_939: -1655487302
+      Room_Builder_3d_walls_48x48_1196: 1354339122
+      Room_Builder_3d_walls_48x48_1293: 541142666
+      Room_Builder_3d_walls_48x48_794: 1732594146
+      Room_Builder_3d_walls_48x48_1110: -310133140
+      Room_Builder_3d_walls_48x48_58: -164267706
+      Room_Builder_3d_walls_48x48_872: -904593181
+      Room_Builder_3d_walls_48x48_548: 2099494030
+      Room_Builder_3d_walls_48x48_844: 94268288
+      Room_Builder_3d_walls_48x48_506: -234575904
+      Room_Builder_3d_walls_48x48_543: -2063744640
+      Room_Builder_3d_walls_48x48_113: -1686901608
+      Room_Builder_3d_walls_48x48_781: 913068168
+      Room_Builder_3d_walls_48x48_1065: 712107368
+      Room_Builder_3d_walls_48x48_251: 770327650
+      Room_Builder_3d_walls_48x48_616: -1265459755
+      Room_Builder_3d_walls_48x48_208: 919792949
+      Room_Builder_3d_walls_48x48_1053: -364849232
+      Room_Builder_3d_walls_48x48_1266: -257795691
+      Room_Builder_3d_walls_48x48_985: 1497637389
+      Room_Builder_3d_walls_48x48_729: -616420198
+      Room_Builder_3d_walls_48x48_378: 1019108156
+      Room_Builder_3d_walls_48x48_429: 1199129608
+      Room_Builder_3d_walls_48x48_109: 1699782877
+      Room_Builder_3d_walls_48x48_1141: 197287592
+      Room_Builder_3d_walls_48x48_1267: 830097436
+      Room_Builder_3d_walls_48x48_929: -533053831
+      Room_Builder_3d_walls_48x48_786: -1828866693
+      Room_Builder_3d_walls_48x48_220: -354861055
+      Room_Builder_3d_walls_48x48_1037: -1736328798
+      Room_Builder_3d_walls_48x48_1043: -914885564
+      Room_Builder_3d_walls_48x48_406: 1782177770
+      Room_Builder_3d_walls_48x48_990: -1867734149
+      Room_Builder_3d_walls_48x48_1097: -2071698910
+      Room_Builder_3d_walls_48x48_260: 2116100837
+      Room_Builder_3d_walls_48x48_804: 1560357580
+      Room_Builder_3d_walls_48x48_1238: 2023549382
+      Room_Builder_3d_walls_48x48_1270: 227354838
+      Room_Builder_3d_walls_48x48_669: -1263700913
+      Room_Builder_3d_walls_48x48_403: 1648342273
+      Room_Builder_3d_walls_48x48_706: -38004440
+      Room_Builder_3d_walls_48x48_545: -193984508
+      Room_Builder_3d_walls_48x48_89: -1540205267
+      Room_Builder_3d_walls_48x48_376: -872903272
+      Room_Builder_3d_walls_48x48_933: -235255404
+      Room_Builder_3d_walls_48x48_1278: 795744910
+      Room_Builder_3d_walls_48x48_183: -220164283
+      Room_Builder_3d_walls_48x48_1005: 531597800
+      Room_Builder_3d_walls_48x48_288: -2054094408
+      Room_Builder_3d_walls_48x48_1036: 694760821
+      Room_Builder_3d_walls_48x48_1175: 185442049
+      Room_Builder_3d_walls_48x48_892: -1373998854
+      Room_Builder_3d_walls_48x48_328: 1653445575
+      Room_Builder_3d_walls_48x48_550: -1658566903
+      Room_Builder_3d_walls_48x48_234: -1611074557
+      Room_Builder_3d_walls_48x48_627: -1986986153
+      Room_Builder_3d_walls_48x48_549: -1611950297
+      Room_Builder_3d_walls_48x48_847: 991111405
+      Room_Builder_3d_walls_48x48_923: -159671995
+      Room_Builder_3d_walls_48x48_1147: 1439184356
+      Room_Builder_3d_walls_48x48_275: 1436729269
+      Room_Builder_3d_walls_48x48_503: 1927803667
+      Room_Builder_3d_walls_48x48_1183: 1077084395
+      Room_Builder_3d_walls_48x48_747: 420459800
+      Room_Builder_3d_walls_48x48_1219: -1003744330
+      Room_Builder_3d_walls_48x48_37: -1985791260
+      Room_Builder_3d_walls_48x48_148: 1825660492
+      Room_Builder_3d_walls_48x48_983: 1237678681
+      Room_Builder_3d_walls_48x48_601: 2073448192
+      Room_Builder_3d_walls_48x48_535: 397276496
+      Room_Builder_3d_walls_48x48_711: -4442527
+      Room_Builder_3d_walls_48x48_480: 225037086
+      Room_Builder_3d_walls_48x48_901: 1547220172
+      Room_Builder_3d_walls_48x48_1030: 78560575
+      Room_Builder_3d_walls_48x48_785: -2080233932
+      Room_Builder_3d_walls_48x48_1216: 1861058018
+      Room_Builder_3d_walls_48x48_1284: -1772944003
+      Room_Builder_3d_walls_48x48_111: 1911386317
+      Room_Builder_3d_walls_48x48_48: -1733540764
+      Room_Builder_3d_walls_48x48_70: 1992363825
+      Room_Builder_3d_walls_48x48_229: 1936531988
+      Room_Builder_3d_walls_48x48_585: 75025816
+      Room_Builder_3d_walls_48x48_1227: 1044131757
+      Room_Builder_3d_walls_48x48_283: -376124820
+      Room_Builder_3d_walls_48x48_317: -1307258729
+      Room_Builder_3d_walls_48x48_610: -989906587
+      Room_Builder_3d_walls_48x48_620: 28821229
+      Room_Builder_3d_walls_48x48_1052: -564774518
+      Room_Builder_3d_walls_48x48_1081: 772086625
+      Room_Builder_3d_walls_48x48_772: 1777185494
+      Room_Builder_3d_walls_48x48_1168: -1506179343
+      Room_Builder_3d_walls_48x48_696: 1614919523
+      Room_Builder_3d_walls_48x48_842: -777324371
+      Room_Builder_3d_walls_48x48_162: 993826437
+      Room_Builder_3d_walls_48x48_332: -386375420
+      Room_Builder_3d_walls_48x48_349: -134935509
+      Room_Builder_3d_walls_48x48_647: -1054192127
+      Room_Builder_3d_walls_48x48_131: -456543242
+      Room_Builder_3d_walls_48x48_1074: 1018864048
+      Room_Builder_3d_walls_48x48_858: 1407125310
+      Room_Builder_3d_walls_48x48_763: -1458408550
+      Room_Builder_3d_walls_48x48_600: 521041482
+      Room_Builder_3d_walls_48x48_540: -1883650028
+      Room_Builder_3d_walls_48x48_707: 1140334368
+      Room_Builder_3d_walls_48x48_39: -1853638164
+      Room_Builder_3d_walls_48x48_294: -139890970
+      Room_Builder_3d_walls_48x48_1021: 478009010
+      Room_Builder_3d_walls_48x48_911: 577098120
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

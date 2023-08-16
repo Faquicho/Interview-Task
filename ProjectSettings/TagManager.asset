@@ -47,17 +47,17 @@ TagManager:
   - name: Floor
     uniqueID: 4214674775
     locked: 0
-  - name: Water
-    uniqueID: 1379980335
-    locked: 0
   - name: Town Elements
     uniqueID: 1514177195
     locked: 0
   - name: Buildings
     uniqueID: 3563266617
     locked: 0
-  - name: Bridge
+  - name: House Elements
     uniqueID: 2042399423
+    locked: 0
+  - name: Details
+    uniqueID: 1379980335
     locked: 0
   - name: Player
     uniqueID: 3257963913

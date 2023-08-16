@@ -1,0 +1,2963 @@
+fileFormatVersion: 2
+guid: ff3ce0e0cc0ca264593620d7aff5c49b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79701411849595e49824c7ca65b2777c
+      internalID: -2144560160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8a1f113b0612e4ab79586523ef3500
+      internalID: 555747751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1776
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d621d82c6cfb2ff4491a06d43a0ee2ed
+      internalID: 615052936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17eb62176c8aeb419e121ff757f14e7
+      internalID: -1212513822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f122b4b9848ef45a9e53da606ba63d
+      internalID: -1961681271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1728
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191580aa8835bf24f9fb7b43144eaa95
+      internalID: 553861815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72a3f40f472b9049bc6f30c898ea85c
+      internalID: 1390584606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_40
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccc79617a47bf64d91b335ff2c6d5ba
+      internalID: 549385997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f59a443b1394b34a8601898b3cd92b8
+      internalID: -199574694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef66de5adb76a90468a10e92977797de
+      internalID: -970080452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_49
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf9c6fea624164e9e5557937ce5bd6
+      internalID: 511333371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_50
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1680
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757e4e55e68604c44a01d912bd421826
+      internalID: -149283078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996db02876133104087abbeac09bfa97
+      internalID: 1058709502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_52
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df413649845b05419db315db0a122cb
+      internalID: -1064836386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46ff6b4221b3d24a87cf9bd19705801
+      internalID: 1256226029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872488286b0100f488da977cdd9d6d7b
+      internalID: -426552293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_61
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c150af7a19f3142bf3e633fef20715
+      internalID: -1263656427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_62
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1632
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1794b79504a85429f062ae5aa29e35
+      internalID: -1016039667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130e98c4c6bae64c8f549d66778481c
+      internalID: 746794665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d31c53f37fb345be225dc502edd13
+      internalID: 976489781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1584
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082e1832dcc4b0b40a89267bb74f8b0c
+      internalID: -1070845234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c854b0a22f7eab4685ff8ac8ae76640
+      internalID: 508868816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c6cdf753809444584a8685de5abe63
+      internalID: 1657321779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1536
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d8005de12931c4caa30091fab4cf52
+      internalID: -771595488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b97c6739e8a141ab7dbf1a26d79be
+      internalID: 1070910051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_88
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b9e64dd2f32ce4d8d367bebd05981d
+      internalID: 815129544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1488
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ef84de66339e4ab4106939a90ee72
+      internalID: 1785124914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f764f51017467af46a779aae7dc1586a
+      internalID: 828871131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f61ad59ef19d848ad35033b9a137f0
+      internalID: 1819720174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1440
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24941bcc39d2a96468bf3a6fe38da116
+      internalID: 814898473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa8d8549574d6f4483545b907aa5ba0
+      internalID: -1522625340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_112
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487d04d7048899b40921d0c844805f93
+      internalID: 509322528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca25f7fd20a3b4b9052c097ecc0d63
+      internalID: -438364048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_117
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65174211a14471e4eabee25f896e0b87
+      internalID: 372807818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_118
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003c968fb0ce16140909f4cd81430335
+      internalID: 1835094667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_119
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1392
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7097357bf1c2cf4c9de7024f47a3969
+      internalID: 710528299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fef305ac2ee08409fd64d28bcf2c9f
+      internalID: -452684186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_124
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62c08623ac377e4a8a40bde093e970e
+      internalID: 725945752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87915aff60497a4e8f0d0b0f36aca78
+      internalID: -2057642064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab058b93bbbdf4940bbcac6a806bf367
+      internalID: 933603017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_130
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea74dad0ff13d454182b2f5be52b7452
+      internalID: -1782845606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644a02ecdf53c274b9cfaf732a36334d
+      internalID: 1473506558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_141
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad405cdb0402a94f959c8c74dd51729
+      internalID: -365947484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_142
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2381ea8a7e9e147b6a81226ed36038
+      internalID: -1698279879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1296
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b614a379db9544fbc85e4ab3e1d682
+      internalID: 836152275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ffd6cd094c4cc4193913329512ba0d
+      internalID: 725985549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_154
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7588ad6acdfdca43ab8401342abde06
+      internalID: 259326862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_155
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1248
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20853d394d4b59a46aa5b7db67210036
+      internalID: -331781914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed344cc9b3c5e4e89c308d1a25026b
+      internalID: 1125720224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_166
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99637f1b4ec22b4438165f474ac05042
+      internalID: -1104317198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_167
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1200
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd36c3e4de62e94ca6408e4bdb7e421
+      internalID: -126003467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_177
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14976cccdec07a74bab21dfe64418461
+      internalID: 1154843209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_178
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e34ffd6c58d32419aebce62e8bdb3c
+      internalID: -874829147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_179
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1152
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73adc2299aea9642a781705e2e52b3b
+      internalID: 282336819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_213
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c21220b222867d4a8692487e3b4a381
+      internalID: 1013599665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_214
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6802767a664f34ca8d3e36ada86536
+      internalID: 1993718941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_215
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1008
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3879ac3f6a6d4714280a0fc642d24684
+      internalID: -1196611353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_225
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea698a2121c4e734d8701c23fa65b8a3
+      internalID: 1846776330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_226
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 960
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d560a28bc0d876b4890f16df4da41dfb
+      internalID: -1470209599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_227
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 960
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4f96637516eb5429843653b0e97998
+      internalID: -923678537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_234
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eceb177af396348a4f508d94466939
+      internalID: 1335481290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_235
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159856bdbee35f742b5b479a9305e1ef
+      internalID: -442097435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_236
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 912
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0b8fb4ccc1a6c40a486a71ed0de450
+      internalID: -896317552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7dd8bbe37c484fb83d2e9d881f6de
+      internalID: 550056848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_247
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c9c626d50f54c4298f21b16123a4aa
+      internalID: 1066282181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_248
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 864
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d574aede2d486d343992c04bc2b8d9f9
+      internalID: -1656864800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc23cf70343bc124a8084a225eb5717c
+      internalID: 861217703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_280
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e2f4cb18aaf3448a5b069f1fd11d4
+      internalID: 523502287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_281
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f185fabe2e16714438c01dac2430d06f
+      internalID: -822981276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_282
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e8cab757ada3541824099b295b396e
+      internalID: -2053993401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_283
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26fe701dc9fd764baa106f326bdbe9b
+      internalID: 989441009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_284
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc8df133fc1174b8a7b792baf41451
+      internalID: 1793957739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_291
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16738eceb747c5544b07246d8fe84cea
+      internalID: 1596088410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_292
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02949526acf46f498e0d48808fcef1a
+      internalID: -1440069499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_293
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f0a6485d71b1a4ebfb707842236a2b
+      internalID: 414930634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_294
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0c8628440a7bc42820b426c3afa670
+      internalID: 1155449950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_295
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1978fc56827a7a64bad9d4b6de1ce594
+      internalID: 1122696319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_296
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 672
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97a041b8f538234a9eb5077519ad897
+      internalID: 1918027326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_303
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f6407a665abef48afb8f13ac497fc8
+      internalID: -2101785644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_304
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c48a2f42626d04489d95ed6aa799a7
+      internalID: 409089138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_305
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c73d21a6891e4ea03472553bc8414
+      internalID: -530600439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_306
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994d857451d880b4c84d6e1e2711ce9b
+      internalID: -719352674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_307
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b97e41d0a200044dbbd3728950d9132
+      internalID: 623999701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_308
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 624
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a275062e85e1f07479bb7aefa3779c16
+      internalID: 2035137755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_315
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667369f8b14304f48aaaf3994cc4271f
+      internalID: -1385834879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_316
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0273813a47213e9469e910bc3e7a88a4
+      internalID: 875239625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_317
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090f6ed9a6377c940937e5e865d76237
+      internalID: 904399020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_318
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfac8867a80283542bd487f04c0b822f
+      internalID: -1602137467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_319
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a52f1b426bcc064ab5353f94509600c
+      internalID: -83072724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_320
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 576
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4909fb01a299df74db2ed0c7c32dec6e
+      internalID: -1095661869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_327
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c4e2ac693be244c889e6be735d15cf
+      internalID: -2106486874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_328
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b39432d08ed0c4ca4685b0a44b50b2
+      internalID: -366963953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_329
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ee9f66c079eb04894eb7a617cf59be
+      internalID: -55025208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_339
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97e5e42827ea584d853a897fe2d2173
+      internalID: 1196185674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_340
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ad461011f4c5246804a212989218a1
+      internalID: 370724371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_341
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d5e051a3db1114f8801c0f0757d5db
+      internalID: -1238082066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_351
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ea184ff2efec4cbf9838ad0ebfbe3
+      internalID: 391647121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_352
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bb6883c42f1d64a988583b3e8bd4f9
+      internalID: -1010346545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_353
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe777a1fceec1746832957bc2ac2bfe
+      internalID: -1332771344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_363
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b47b774ef255b04cb00c7cae9b8f3ea
+      internalID: 406222105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_364
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9a6e7b218c1a4385a6404b5c93c6c
+      internalID: 750756591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_365
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d92da3d95f63341a23ad27d4078f37
+      internalID: 294585923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_375
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e74e33ee8e727488d6d1032fbc157e
+      internalID: 372431962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_376
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ab954188a7ef4fb52753a65345e1b
+      internalID: 1805210989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_377
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae6dcfaee245cb4b80459369ca59e3f
+      internalID: -1296630547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_387
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8190a635de5b4780a56192b1dc882
+      internalID: 346561878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_388
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a24b043f9bb9f4f866f82723f8d691
+      internalID: -578566449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_389
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10968330291233d48a8207e20c2d8a1d
+      internalID: 2059029055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_399
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651acc70e759682439c4af0939f41f53
+      internalID: -1852088188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_400
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f36b8432ac4c5479b1d9e551a4c6ab
+      internalID: 828739352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_401
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d958d66b872d54abe4f6eb43c9117e
+      internalID: -1071892687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_411
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85fbc02b07299854c85f3539cd52fef5
+      internalID: -1909620664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_412
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd59ae7a423ab5542b629ebd50001eb5
+      internalID: -1949349524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Room_Builder_Floors_48x48_413
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009bae487ca4aa54ead219bce6eaef4b
+      internalID: -2053543329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Room_Builder_Floors_48x48_210: 14600348
+      Room_Builder_Floors_48x48_211: 1024113534
+      Room_Builder_Floors_48x48_369: -1065319005
+      Room_Builder_Floors_48x48_62: -1016039667
+      Room_Builder_Floors_48x48_414: 1721845046
+      Room_Builder_Floors_48x48_103: -2080371423
+      Room_Builder_Floors_48x48_70: 1654043180
+      Room_Builder_Floors_48x48_291: 1596088410
+      Room_Builder_Floors_48x48_139: 308395788
+      Room_Builder_Floors_48x48_418: -380959822
+      Room_Builder_Floors_48x48_374: -803424110
+      Room_Builder_Floors_48x48_66: 1540549328
+      Room_Builder_Floors_48x48_129: 933603017
+      Room_Builder_Floors_48x48_412: -1949349524
+      Room_Builder_Floors_48x48_399: -1852088188
+      Room_Builder_Floors_48x48_429: -2083642399
+      Room_Builder_Floors_48x48_389: 2059029055
+      Room_Builder_Floors_48x48_97: 1420796257
+      Room_Builder_Floors_48x48_127: 569965366
+      Room_Builder_Floors_48x48_310: 917757773
+      Room_Builder_Floors_48x48_252: 534326880
+      Room_Builder_Floors_48x48_68: 1813110236
+      Room_Builder_Floors_48x48_153: 725985549
+      Room_Builder_Floors_48x48_402: -490280046
+      Room_Builder_Floors_48x48_26: -392816051
+      Room_Builder_Floors_48x48_78: 1859134087
+      Room_Builder_Floors_48x48_355: -2070742595
+      Room_Builder_Floors_48x48_3: 896914959
+      Room_Builder_Floors_48x48_245: 385957200
+      Room_Builder_Floors_48x48_246: 550056848
+      Room_Builder_Floors_48x48_24: -1942689816
+      Room_Builder_Floors_48x48_377: -1296630547
+      Room_Builder_Floors_48x48_222: 1669726313
+      Room_Builder_Floors_48x48_165: 1125720224
+      Room_Builder_Floors_48x48_67: 1916170246
+      Room_Builder_Floors_48x48_183: -1133789214
+      Room_Builder_Floors_48x48_373: -1649736981
+      Room_Builder_Floors_48x48_223: 229219210
+      Room_Builder_Floors_48x48_304: 409089138
+      Room_Builder_Floors_48x48_42: 473941057
+      Room_Builder_Floors_48x48_301: 257761257
+      Room_Builder_Floors_48x48_40: 549385997
+      Room_Builder_Floors_48x48_415: 1353997306
+      Room_Builder_Floors_48x48_106: 933932733
+      Room_Builder_Floors_48x48_317: 904399020
+      Room_Builder_Floors_48x48_362: 379458554
+      Room_Builder_Floors_48x48_295: 1122696319
+      Room_Builder_Floors_48x48_308: 2035137755
+      Room_Builder_Floors_48x48_110: 1200026677
+      Room_Builder_Floors_48x48_407: 158572578
+      Room_Builder_Floors_48x48_2: 1897001795
+      Room_Builder_Floors_48x48_364: 750756591
+      Room_Builder_Floors_48x48_371: 1228321574
+      Room_Builder_Floors_48x48_241: -1923950517
+      Room_Builder_Floors_48x48_367: 1816266761
+      Room_Builder_Floors_48x48_32: 1117788407
+      Room_Builder_Floors_48x48_363: 406222105
+      Room_Builder_Floors_48x48_292: -1440069499
+      Room_Builder_Floors_48x48_288: -606984873
+      Room_Builder_Floors_48x48_224: 689591227
+      Room_Builder_Floors_48x48_115: 1078443901
+      Room_Builder_Floors_48x48_280: 523502287
+      Room_Builder_Floors_48x48_5: -273469395
+      Room_Builder_Floors_48x48_178: -874829147
+      Room_Builder_Floors_48x48_267: 1173422348
+      Room_Builder_Floors_48x48_205: 1869212971
+      Room_Builder_Floors_48x48_397: 1451241934
+      Room_Builder_Floors_48x48_7: -1744595387
+      Room_Builder_Floors_48x48_333: 1736447446
+      Room_Builder_Floors_48x48_22: 646489264
+      Room_Builder_Floors_48x48_159: 1717335208
+      Room_Builder_Floors_48x48_380: 127003515
+      Room_Builder_Floors_48x48_182: 496869674
+      Room_Builder_Floors_48x48_430: -143756788
+      Room_Builder_Floors_48x48_122: 291606769
+      Room_Builder_Floors_48x48_281: -822981276
+      Room_Builder_Floors_48x48_108: 1016765300
+      Room_Builder_Floors_48x48_174: -1963500462
+      Room_Builder_Floors_48x48_324: 43718704
+      Room_Builder_Floors_48x48_84: 184924351
+      Room_Builder_Floors_48x48_381: 658913232
+      Room_Builder_Floors_48x48_140: -520572468
+      Room_Builder_Floors_48x48_424: 61194707
+      Room_Builder_Floors_48x48_119: 710528299
+      Room_Builder_Floors_48x48_168: -1189693535
+      Room_Builder_Floors_48x48_114: -34105601
+      Room_Builder_Floors_48x48_191: 1221364903
+      Room_Builder_Floors_48x48_104: 729750403
+      Room_Builder_Floors_48x48_439: 1198731591
+      Room_Builder_Floors_48x48_77: -771595488
+      Room_Builder_Floors_48x48_345: 137765328
+      Room_Builder_Floors_48x48_243: 198835120
+      Room_Builder_Floors_48x48_393: 2021722493
+      Room_Builder_Floors_48x48_229: 1534375655
+      Room_Builder_Floors_48x48_442: 339067006
+      Room_Builder_Floors_48x48_61: -1263656427
+      Room_Builder_Floors_48x48_154: 259326862
+      Room_Builder_Floors_48x48_128: -31515672
+      Room_Builder_Floors_48x48_125: -2057642064
+      Room_Builder_Floors_48x48_175: 112078557
+      Room_Builder_Floors_48x48_250: 1073963754
+      Room_Builder_Floors_48x48_285: -2108480899
+      Room_Builder_Floors_48x48_318: -1602137467
+      Room_Builder_Floors_48x48_161: 1267741853
+      Room_Builder_Floors_48x48_82: -112816716
+      Room_Builder_Floors_48x48_220: 1777197845
+      Room_Builder_Floors_48x48_408: 1077120424
+      Room_Builder_Floors_48x48_296: 1918027326
+      Room_Builder_Floors_48x48_83: 681110979
+      Room_Builder_Floors_48x48_195: 1672480556
+      Room_Builder_Floors_48x48_348: 2064329204
+      Room_Builder_Floors_48x48_71: 1587932550
+      Room_Builder_Floors_48x48_432: 1983241637
+      Room_Builder_Floors_48x48_15: -2144560160
+      Room_Builder_Floors_48x48_287: -1673877993
+      Room_Builder_Floors_48x48_190: 1368634413
+      Room_Builder_Floors_48x48_41: -199574694
+      Room_Builder_Floors_48x48_305: -530600439
+      Room_Builder_Floors_48x48_226: -1470209599
+      Room_Builder_Floors_48x48_307: 623999701
+      Room_Builder_Floors_48x48_21: -1585095593
+      Room_Builder_Floors_48x48_428: -126075495
+      Room_Builder_Floors_48x48_98: 1684032014
+      Room_Builder_Floors_48x48_358: -1664592973
+      Room_Builder_Floors_48x48_166: -1104317198
+      Room_Builder_Floors_48x48_4: 19365499
+      Room_Builder_Floors_48x48_176: -299177089
+      Room_Builder_Floors_48x48_163: -1978950770
+      Room_Builder_Floors_48x48_93: -1410457192
+      Room_Builder_Floors_48x48_258: -1057980417
+      Room_Builder_Floors_48x48_370: -365620227
+      Room_Builder_Floors_48x48_328: -366963953
+      Room_Builder_Floors_48x48_118: 1835094667
+      Room_Builder_Floors_48x48_290: 851239298
+      Room_Builder_Floors_48x48_283: 989441009
+      Room_Builder_Floors_48x48_300: 267545908
+      Room_Builder_Floors_48x48_356: 355996137
+      Room_Builder_Floors_48x48_354: -394860227
+      Room_Builder_Floors_48x48_142: -1698279879
+      Room_Builder_Floors_48x48_54: 1933934627
+      Room_Builder_Floors_48x48_194: 1106962675
+      Room_Builder_Floors_48x48_343: 2104710696
+      Room_Builder_Floors_48x48_200: 1525754726
+      Room_Builder_Floors_48x48_256: -1353084868
+      Room_Builder_Floors_48x48_17: 615052936
+      Room_Builder_Floors_48x48_216: -361725581
+      Room_Builder_Floors_48x48_330: 1493088810
+      Room_Builder_Floors_48x48_441: -1680769261
+      Room_Builder_Floors_48x48_400: 828739352
+      Room_Builder_Floors_48x48_117: 372807818
+      Room_Builder_Floors_48x48_395: 1973771647
+      Room_Builder_Floors_48x48_59: -372457655
+      Room_Builder_Floors_48x48_396: -1833463276
+      Room_Builder_Floors_48x48_444: -755697810
+      Room_Builder_Floors_48x48_272: 1015119185
+      Room_Builder_Floors_48x48_11: 1008481695
+      Room_Builder_Floors_48x48_251: 1689392063
+      Room_Builder_Floors_48x48_19: 165683677
+      Room_Builder_Floors_48x48_135: 102954775
+      Room_Builder_Floors_48x48_378: 994819746
+      Room_Builder_Floors_48x48_293: 414930634
+      Room_Builder_Floors_48x48_58: 650897478
+      Room_Builder_Floors_48x48_157: -837390785
+      Room_Builder_Floors_48x48_91: -1813046994
+      Room_Builder_Floors_48x48_360: 471115263
+      Room_Builder_Floors_48x48_99: 828871131
+      Room_Builder_Floors_48x48_284: 1793957739
+      Room_Builder_Floors_48x48_51: 1058709502
+      Room_Builder_Floors_48x48_274: 1054957659
+      Room_Builder_Floors_48x48_398: -1727724724
+      Room_Builder_Floors_48x48_23: 1806013438
+      Room_Builder_Floors_48x48_29: 553861815
+      Room_Builder_Floors_48x48_28: -1961681271
+      Room_Builder_Floors_48x48_100: 1819720174
+      Room_Builder_Floors_48x48_75: 508868816
+      Room_Builder_Floors_48x48_438: 1333665918
+      Room_Builder_Floors_48x48_204: -776501857
+      Room_Builder_Floors_48x48_152: -1063151279
+      Room_Builder_Floors_48x48_270: -1994342036
+      Room_Builder_Floors_48x48_120: 126775168
+      Room_Builder_Floors_48x48_180: 4521302
+      Room_Builder_Floors_48x48_207: -1249319758
+      Room_Builder_Floors_48x48_219: -989260670
+      Room_Builder_Floors_48x48_445: -1060211382
+      Room_Builder_Floors_48x48_294: 1155449950
+      Room_Builder_Floors_48x48_383: -2106301475
+      Room_Builder_Floors_48x48_133: -1862393936
+      Room_Builder_Floors_48x48_149: 1919081088
+      Room_Builder_Floors_48x48_420: 634674867
+      Room_Builder_Floors_48x48_237: -1033821494
+      Room_Builder_Floors_48x48_38: 737973844
+      Room_Builder_Floors_48x48_425: 370616117
+      Room_Builder_Floors_48x48_321: 461098480
+      Room_Builder_Floors_48x48_286: -964663816
+      Room_Builder_Floors_48x48_388: -578566449
+      Room_Builder_Floors_48x48_89: 1785124914
+      Room_Builder_Floors_48x48_209: 1812930053
+      Room_Builder_Floors_48x48_431: 1598215136
+      Room_Builder_Floors_48x48_39: 1390584606
+      Room_Builder_Floors_48x48_188: 1252588146
+      Room_Builder_Floors_48x48_249: 1693733689
+      Room_Builder_Floors_48x48_132: 347043207
+      Room_Builder_Floors_48x48_387: 346561878
+      Room_Builder_Floors_48x48_158: 749066036
+      Room_Builder_Floors_48x48_37: 481774076
+      Room_Builder_Floors_48x48_116: 763964524
+      Room_Builder_Floors_48x48_423: 1094219306
+      Room_Builder_Floors_48x48_344: -1518043225
+      Room_Builder_Floors_48x48_230: -20366750
+      Room_Builder_Floors_48x48_192: -1958126052
+      Room_Builder_Floors_48x48_138: 48294681
+      Room_Builder_Floors_48x48_320: -1095661869
+      Room_Builder_Floors_48x48_50: -149283078
+      Room_Builder_Floors_48x48_85: 60484042
+      Room_Builder_Floors_48x48_198: -447502446
+      Room_Builder_Floors_48x48_311: -624850361
+      Room_Builder_Floors_48x48_64: 976489781
+      Room_Builder_Floors_48x48_443: -361940033
+      Room_Builder_Floors_48x48_10: 1292014738
+      Room_Builder_Floors_48x48_323: 107487699
+      Room_Builder_Floors_48x48_167: -126003467
+      Room_Builder_Floors_48x48_94: 19521045
+      Room_Builder_Floors_48x48_43: 1212995014
+      Room_Builder_Floors_48x48_411: -1909620664
+      Room_Builder_Floors_48x48_215: -1196611353
+      Room_Builder_Floors_48x48_57: -1618882538
+      Room_Builder_Floors_48x48_271: -1672832141
+      Room_Builder_Floors_48x48_92: 1105463208
+      Room_Builder_Floors_48x48_298: -851778802
+      Room_Builder_Floors_48x48_148: 785383420
+      Room_Builder_Floors_48x48_264: 798345532
+      Room_Builder_Floors_48x48_446: -1224876588
+      Room_Builder_Floors_48x48_386: 1890137341
+      Room_Builder_Floors_48x48_146: -53025170
+      Room_Builder_Floors_48x48_107: -2104814582
+      Room_Builder_Floors_48x48_391: -1046117464
+      Room_Builder_Floors_48x48_340: 370724371
+      Room_Builder_Floors_48x48_339: 1196185674
+      Room_Builder_Floors_48x48_90: -1071607828
+      Room_Builder_Floors_48x48_202: 1505046592
+      Room_Builder_Floors_48x48_315: -1385834879
+      Room_Builder_Floors_48x48_181: -182546233
+      Room_Builder_Floors_48x48_372: -1061694719
+      Room_Builder_Floors_48x48_440: 1791520060
+      Room_Builder_Floors_48x48_36: -163584827
+      Room_Builder_Floors_48x48_427: -1409993898
+      Room_Builder_Floors_48x48_297: 324959399
+      Room_Builder_Floors_48x48_338: -1647947001
+      Room_Builder_Floors_48x48_390: -275846191
+      Room_Builder_Floors_48x48_244: 198264424
+      Room_Builder_Floors_48x48_164: -656505990
+      Room_Builder_Floors_48x48_365: 294585923
+      Room_Builder_Floors_48x48_79: -372336915
+      Room_Builder_Floors_48x48_359: -1486388903
+      Room_Builder_Floors_48x48_201: 873855178
+      Room_Builder_Floors_48x48_80: -1522801263
+      Room_Builder_Floors_48x48_435: 1394001039
+      Room_Builder_Floors_48x48_109: 544141604
+      Room_Builder_Floors_48x48_16: 555747751
+      Room_Builder_Floors_48x48_87: 1070910051
+      Room_Builder_Floors_48x48_46: 50964879
+      Room_Builder_Floors_48x48_73: 1533833624
+      Room_Builder_Floors_48x48_269: -1523249542
+      Room_Builder_Floors_48x48_238: 1871612029
+      Room_Builder_Floors_48x48_346: -141256028
+      Room_Builder_Floors_48x48_419: -68403746
+      Room_Builder_Floors_48x48_266: 288541580
+      Room_Builder_Floors_48x48_404: 1529813264
+      Room_Builder_Floors_48x48_406: -1440196841
+      Room_Builder_Floors_48x48_334: -1308604132
+      Room_Builder_Floors_48x48_299: 2077725234
+      Room_Builder_Floors_48x48_232: 2130831799
+      Room_Builder_Floors_48x48_254: -1886270539
+      Room_Builder_Floors_48x48_212: -1479649722
+      Room_Builder_Floors_48x48_0: 112862822
+      Room_Builder_Floors_48x48_199: 218029965
+      Room_Builder_Floors_48x48_27: -1212513822
+      Room_Builder_Floors_48x48_13: 376537727
+      Room_Builder_Floors_48x48_342: 614885859
+      Room_Builder_Floors_48x48_379: 1729721301
+      Room_Builder_Floors_48x48_171: 937354428
+      Room_Builder_Floors_48x48_416: -627605298
+      Room_Builder_Floors_48x48_169: 5518816
+      Room_Builder_Floors_48x48_278: -1280566967
+      Room_Builder_Floors_48x48_30: 933704840
+      Room_Builder_Floors_48x48_187: -1260557659
+      Room_Builder_Floors_48x48_228: 1168819505
+      Room_Builder_Floors_48x48_69: 98907247
+      Room_Builder_Floors_48x48_433: 236970423
+      Room_Builder_Floors_48x48_12: -182898205
+      Room_Builder_Floors_48x48_350: -1440112277
+      Room_Builder_Floors_48x48_335: -2080761550
+      Room_Builder_Floors_48x48_105: -115852446
+      Room_Builder_Floors_48x48_413: -2053543329
+      Room_Builder_Floors_48x48_147: -118967403
+      Room_Builder_Floors_48x48_189: -1260821916
+      Room_Builder_Floors_48x48_18: 1826152500
+      Room_Builder_Floors_48x48_124: 725945752
+      Room_Builder_Floors_48x48_422: -2006562748
+      Room_Builder_Floors_48x48_6: -2082612236
+      Room_Builder_Floors_48x48_53: 1256226029
+      Room_Builder_Floors_48x48_327: -2106486874
+      Room_Builder_Floors_48x48_25: 1014516567
+      Room_Builder_Floors_48x48_141: -365947484
+      Room_Builder_Floors_48x48_121: -104829847
+      Room_Builder_Floors_48x48_225: 1846776330
+      Room_Builder_Floors_48x48_193: 970379469
+      Room_Builder_Floors_48x48_302: -2100953709
+      Room_Builder_Floors_48x48_361: 831447581
+      Room_Builder_Floors_48x48_426: -1535945008
+      Room_Builder_Floors_48x48_160: -1468164290
+      Room_Builder_Floors_48x48_366: -2082347286
+      Room_Builder_Floors_48x48_9: -11883079
+      Room_Builder_Floors_48x48_316: 875239625
+      Room_Builder_Floors_48x48_74: 1125663019
+      Room_Builder_Floors_48x48_410: 406367534
+      Room_Builder_Floors_48x48_131: 1473506558
+      Room_Builder_Floors_48x48_394: -156638501
+      Room_Builder_Floors_48x48_31: -287543012
+      Room_Builder_Floors_48x48_162: -1923410083
+      Room_Builder_Floors_48x48_235: -442097435
+      Room_Builder_Floors_48x48_347: 1494315216
+      Room_Builder_Floors_48x48_112: 509322528
+      Room_Builder_Floors_48x48_136: -1320429270
+      Room_Builder_Floors_48x48_257: 524272894
+      Room_Builder_Floors_48x48_14: -53646348
+      Room_Builder_Floors_48x48_349: 1348619945
+      Room_Builder_Floors_48x48_259: 2068646173
+      Room_Builder_Floors_48x48_352: -1010346545
+      Room_Builder_Floors_48x48_134: -307704999
+      Room_Builder_Floors_48x48_34: -1572525302
+      Room_Builder_Floors_48x48_221: -98612018
+      Room_Builder_Floors_48x48_405: 1772303328
+      Room_Builder_Floors_48x48_341: -1238082066
+      Room_Builder_Floors_48x48_45: -841093846
+      Room_Builder_Floors_48x48_376: 1805210989
+      Room_Builder_Floors_48x48_76: 1657321779
+      Room_Builder_Floors_48x48_421: 496448259
+      Room_Builder_Floors_48x48_247: 1066282181
+      Room_Builder_Floors_48x48_47: 1893266663
+      Room_Builder_Floors_48x48_234: 1335481290
+      Room_Builder_Floors_48x48_268: 311235366
+      Room_Builder_Floors_48x48_155: -331781914
+      Room_Builder_Floors_48x48_48: -970080452
+      Room_Builder_Floors_48x48_144: 725429841
+      Room_Builder_Floors_48x48_213: 1013599665
+      Room_Builder_Floors_48x48_392: 650535848
+      Room_Builder_Floors_48x48_55: 1515519469
+      Room_Builder_Floors_48x48_240: -410882997
+      Room_Builder_Floors_48x48_262: 477389384
+      Room_Builder_Floors_48x48_437: 1549048978
+      Room_Builder_Floors_48x48_276: 563331466
+      Room_Builder_Floors_48x48_313: 1097514164
+      Room_Builder_Floors_48x48_206: -411613676
+      Room_Builder_Floors_48x48_137: 584784049
+      Room_Builder_Floors_48x48_196: 470937125
+      Room_Builder_Floors_48x48_8: -950733621
+      Room_Builder_Floors_48x48_52: -1064836386
+      Room_Builder_Floors_48x48_63: 746794665
+      Room_Builder_Floors_48x48_336: -1767053844
+      Room_Builder_Floors_48x48_86: 1818249236
+      Room_Builder_Floors_48x48_403: 1608695720
+      Room_Builder_Floors_48x48_233: 1442108668
+      Room_Builder_Floors_48x48_227: -923678537
+      Room_Builder_Floors_48x48_384: -794928564
+      Room_Builder_Floors_48x48_145: 1372849385
+      Room_Builder_Floors_48x48_81: -1472452878
+      Room_Builder_Floors_48x48_208: -1036551211
+      Room_Builder_Floors_48x48_60: -426552293
+      Room_Builder_Floors_48x48_203: -1690994360
+      Room_Builder_Floors_48x48_96: -589530392
+      Room_Builder_Floors_48x48_88: 815129544
+      Room_Builder_Floors_48x48_329: -55025208
+      Room_Builder_Floors_48x48_113: -438364048
+      Room_Builder_Floors_48x48_151: 1016293265
+      Room_Builder_Floors_48x48_260: 1991851728
+      Room_Builder_Floors_48x48_173: -1029789649
+      Room_Builder_Floors_48x48_184: -842477592
+      Room_Builder_Floors_48x48_309: 1801024236
+      Room_Builder_Floors_48x48_273: -346924575
+      Room_Builder_Floors_48x48_351: 391647121
+      Room_Builder_Floors_48x48_197: 128931388
+      Room_Builder_Floors_48x48_20: -1457244769
+      Room_Builder_Floors_48x48_177: 1154843209
+      Room_Builder_Floors_48x48_156: -1085751653
+      Room_Builder_Floors_48x48_231: -58950307
+      Room_Builder_Floors_48x48_306: -719352674
+      Room_Builder_Floors_48x48_33: 796431803
+      Room_Builder_Floors_48x48_123: -452684186
+      Room_Builder_Floors_48x48_261: -1281117538
+      Room_Builder_Floors_48x48_279: 861217703
+      Room_Builder_Floors_48x48_1: -1022799529
+      Room_Builder_Floors_48x48_218: 1647994071
+      Room_Builder_Floors_48x48_44: -1829457664
+      Room_Builder_Floors_48x48_130: -1782845606
+      Room_Builder_Floors_48x48_275: 1107078001
+      Room_Builder_Floors_48x48_72: -762570448
+      Room_Builder_Floors_48x48_303: -2101785644
+      Room_Builder_Floors_48x48_214: 1993718941
+      Room_Builder_Floors_48x48_172: 645261569
+      Room_Builder_Floors_48x48_401: -1071892687
+      Room_Builder_Floors_48x48_322: 14580568
+      Room_Builder_Floors_48x48_170: -2099450156
+      Room_Builder_Floors_48x48_265: 956198973
+      Room_Builder_Floors_48x48_65: -1070845234
+      Room_Builder_Floors_48x48_436: 311549827
+      Room_Builder_Floors_48x48_185: -668592823
+      Room_Builder_Floors_48x48_385: 1181057308
+      Room_Builder_Floors_48x48_263: 396729939
+      Room_Builder_Floors_48x48_186: 674462709
+      Room_Builder_Floors_48x48_314: -94749175
+      Room_Builder_Floors_48x48_332: -1933336046
+      Room_Builder_Floors_48x48_49: 511333371
+      Room_Builder_Floors_48x48_368: 1914985827
+      Room_Builder_Floors_48x48_331: -27658039
+      Room_Builder_Floors_48x48_282: -2053993401
+      Room_Builder_Floors_48x48_217: 116752821
+      Room_Builder_Floors_48x48_253: -2007753168
+      Room_Builder_Floors_48x48_242: -1895739744
+      Room_Builder_Floors_48x48_101: 814898473
+      Room_Builder_Floors_48x48_248: -1656864800
+      Room_Builder_Floors_48x48_319: -83072724
+      Room_Builder_Floors_48x48_150: -318350753
+      Room_Builder_Floors_48x48_56: -1724632384
+      Room_Builder_Floors_48x48_409: 508912345
+      Room_Builder_Floors_48x48_236: -896317552
+      Room_Builder_Floors_48x48_95: 468313102
+      Room_Builder_Floors_48x48_126: -1962230570
+      Room_Builder_Floors_48x48_337: 1899833928
+      Room_Builder_Floors_48x48_102: 1202326574
+      Room_Builder_Floors_48x48_289: 546905433
+      Room_Builder_Floors_48x48_375: 372431962
+      Room_Builder_Floors_48x48_382: 1288452077
+      Room_Builder_Floors_48x48_35: -1964106974
+      Room_Builder_Floors_48x48_325: -829905533
+      Room_Builder_Floors_48x48_277: 1939807171
+      Room_Builder_Floors_48x48_326: 1080825784
+      Room_Builder_Floors_48x48_417: 938759463
+      Room_Builder_Floors_48x48_143: 836152275
+      Room_Builder_Floors_48x48_255: 1936276301
+      Room_Builder_Floors_48x48_357: -2000830887
+      Room_Builder_Floors_48x48_111: -1522625340
+      Room_Builder_Floors_48x48_434: -660510255
+      Room_Builder_Floors_48x48_239: -518126377
+      Room_Builder_Floors_48x48_312: -908128557
+      Room_Builder_Floors_48x48_353: -1332771344
+      Room_Builder_Floors_48x48_179: 282336819
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
