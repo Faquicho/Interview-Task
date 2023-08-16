@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Floor
+  - Buildings
+  - Town Elements
   layers:
   - Default
   - TransparentFX
@@ -11,9 +14,9 @@ TagManager:
   - Player
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Floor
+  - Buildings
+  - Tile Elements
   - 
   - 
   - 
@@ -40,6 +43,21 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4214674775
+    locked: 0
+  - name: Water
+    uniqueID: 1379980335
+    locked: 0
+  - name: Town Elements
+    uniqueID: 1514177195
+    locked: 0
+  - name: Buildings
+    uniqueID: 3563266617
+    locked: 0
+  - name: Bridge
+    uniqueID: 2042399423
     locked: 0
   - name: Player
     uniqueID: 3257963913
