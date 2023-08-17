@@ -33,3 +33,8 @@ By combining these elements, the game offers a simplified yet captivating role-p
 
 In conclusion, this project is not just a game but an examination of key development concepts. It creatively utilizes basic functionalities to create an experience that is both entertaining and demonstrative.
 
+## Personal thoughts
+
+It was a very challenging experience, having to use all my expertise and learning process to create the most clean and functional code I could provide in such a small amount of time. In hindsight I can confidently say that I need to work in my priorities when taking into a challenge like this one.
+But overall it was a wonderful experience and I would really love to keep developing my skills to the next level and beyond.
+
