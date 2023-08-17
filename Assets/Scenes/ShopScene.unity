@@ -353,22 +353,6 @@ PrefabInstance:
       propertyPath: uiShop
       value: 
       objectReference: {fileID: 1263130299}
-    - target: {fileID: 995575141764330370, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
-      propertyPath: m_Size.x
-      value: 0.9791667
-      objectReference: {fileID: 0}
-    - target: {fileID: 995575141764330370, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
-      propertyPath: m_Size.y
-      value: 1.5625
-      objectReference: {fileID: 0}
-    - target: {fileID: 995575141764330370, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 995575141764330370, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
-      propertyPath: m_WasSpriteAssigned
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 995575141764330371, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -417,16 +401,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 995575141764330399, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
-      propertyPath: m_SpriteTilingProperty.newSize.x
-      value: 0.9791667
-      objectReference: {fileID: 0}
-    - target: {fileID: 995575141764330399, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
-      propertyPath: m_SpriteTilingProperty.newSize.y
-      value: 1.5625
+    - target: {fileID: 995575142968095177, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 995575142968095179, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
       propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 995575142987806904, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}
+      propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 995575142987806906, guid: db869913d4ad66c4f94ba0470e32b3cb, type: 3}

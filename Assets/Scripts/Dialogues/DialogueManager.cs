@@ -4,7 +4,6 @@ using UnityEngine;
 using TMPro;
 using System;
 using UnityEngine.InputSystem;
-using UnityEditor.UI;
 using UnityEngine.UIElements;
 
 public class DialogueManager : MonoBehaviour

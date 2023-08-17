@@ -1,6 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor.U2D.Path.GUIFramework;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using static UnityEngine.InputSystem.InputAction;
@@ -33,6 +33,7 @@ public class PlayerController : MonoBehaviour
         input = new PlayerInput();
         input.Player.Interact.performed += context => OnInteract();
         input.Player.OpenShop.performed += context => OnOpenShop();
+        input.Player.QuitGame.performed += context => OnQuitGame();
         input.Player.Move.performed += ctx => moveInput =ctx.ReadValue<Vector2>();
         input.Player.Move.canceled += ctx => moveInput = Vector2.zero;
     }
@@ -85,5 +86,10 @@ public class PlayerController : MonoBehaviour
     public Sprite GetPlayerSprite()
     {
         return currentSprite;
+    }
+
+    public void OnQuitGame()
+    {
+        Application.Quit();
     }
 }
