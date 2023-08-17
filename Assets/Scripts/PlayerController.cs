@@ -11,6 +11,9 @@ public class PlayerController : MonoBehaviour
 
     private GameObject player;
     private Mom mom;
+    private ShopInventoryController shopController;
+    private SpriteRenderer spriteRenderer;
+    private Sprite currentSprite;
 
     private Rigidbody2D rb2d;
     Vector2 moveInput;
@@ -22,11 +25,14 @@ public class PlayerController : MonoBehaviour
 
     private void Awake()
     {
+        spriteRenderer = GetComponentInChildren<SpriteRenderer>();
         rb2d = GetComponent<Rigidbody2D>();
         player = GameObject.FindWithTag("Player");
         mom = FindObjectOfType<Mom>();
+        shopController = FindObjectOfType<ShopInventoryController>();
         input = new PlayerInput();
         input.Player.Interact.performed += context => OnInteract();
+        input.Player.OpenShop.performed += context => OnOpenShop();
         input.Player.Move.performed += ctx => moveInput =ctx.ReadValue<Vector2>();
         input.Player.Move.canceled += ctx => moveInput = Vector2.zero;
     }
@@ -46,13 +52,18 @@ public class PlayerController : MonoBehaviour
 
     public void OnInteract() 
     {
-        Debug.Log("HOLI");
+        Debug.Log("IsPressed");
         var interaction = FindObjectOfType<InteractionManager>().GetActiveInteraction();
 
         if(interaction != default(InteractableObject)) 
             {
                 interaction.Interact();
             }
+    }
+
+    public void OnOpenShop()
+    {
+        shopController.OpenShop();
     }
 
     private void OnEnable()
@@ -63,5 +74,16 @@ public class PlayerController : MonoBehaviour
     private void OnDisable()
     {
         input.Player.Disable();
+    }
+
+    public void SetPlayerSprite(Sprite newSprite)
+    {
+        currentSprite = newSprite;
+        spriteRenderer.sprite = currentSprite;
+    }
+
+    public Sprite GetPlayerSprite()
+    {
+        return currentSprite;
     }
 }

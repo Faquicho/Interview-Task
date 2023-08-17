@@ -7336,7 +7336,7 @@ GameObject:
   - component: {fileID: 621859374}
   - component: {fileID: 621859373}
   - component: {fileID: 621859375}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Shop Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7356,7 +7356,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.1050055}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -7367,7 +7367,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1, y: 1.210011}
   m_EdgeRadius: 0
 --- !u!4 &621859374
 Transform:
@@ -7396,6 +7396,72 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f2b4563aff9d3c4b9cc287546eec71e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nextScene: ShopScene
+--- !u!1001 &791918919
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2439783187658447056, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_Name
+      value: GameManager
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.5923476
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.2998832
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.08306144
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447058, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447068, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2439783187658447068, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
+      propertyPath: dialoguePanel
+      value: 
+      objectReference: {fileID: 1326114768881505862, guid: 6fef669b686167d49b9501f5b93938b6, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b81227e0376b2be4c97a79803e15091d, type: 3}
 --- !u!1 &927344072
 GameObject:
   m_ObjectHideFlags: 0

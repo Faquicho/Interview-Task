@@ -57,6 +57,9 @@ TagManager:
   - name: House Elements
     uniqueID: 2042399423
     locked: 0
+  - name: Shop Elements
+    uniqueID: 3821265325
+    locked: 0
   - name: Details
     uniqueID: 1379980335
     locked: 0

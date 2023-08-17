@@ -62,6 +62,15 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": true
+                },
+                {
+                    ""name"": ""OpenShop"",
+                    ""type"": ""Value"",
+                    ""id"": ""e6d22f11-f25f-49de-aff4-83860ba16c4f"",
+                    ""expectedControlType"": ""Button"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": true
                 }
             ],
             ""bindings"": [
@@ -293,6 +302,17 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""groups"": ""Keyboard&Mouse"",
                     ""action"": ""Interact"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""5a3cce65-d468-4d5c-8b93-e6b7881eddee"",
+                    ""path"": ""<Keyboard>/i"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""OpenShop"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
                 }
@@ -884,6 +904,7 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
         m_Player_Look = m_Player.FindAction("Look", throwIfNotFound: true);
         m_Player_Fire = m_Player.FindAction("Fire", throwIfNotFound: true);
         m_Player_Interact = m_Player.FindAction("Interact", throwIfNotFound: true);
+        m_Player_OpenShop = m_Player.FindAction("OpenShop", throwIfNotFound: true);
         // UI
         m_UI = asset.FindActionMap("UI", throwIfNotFound: true);
         m_UI_Navigate = m_UI.FindAction("Navigate", throwIfNotFound: true);
@@ -959,6 +980,7 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
     private readonly InputAction m_Player_Look;
     private readonly InputAction m_Player_Fire;
     private readonly InputAction m_Player_Interact;
+    private readonly InputAction m_Player_OpenShop;
     public struct PlayerActions
     {
         private @PlayerInput m_Wrapper;
@@ -967,6 +989,7 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
         public InputAction @Look => m_Wrapper.m_Player_Look;
         public InputAction @Fire => m_Wrapper.m_Player_Fire;
         public InputAction @Interact => m_Wrapper.m_Player_Interact;
+        public InputAction @OpenShop => m_Wrapper.m_Player_OpenShop;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -988,6 +1011,9 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
                 @Interact.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnInteract;
                 @Interact.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnInteract;
                 @Interact.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnInteract;
+                @OpenShop.started -= m_Wrapper.m_PlayerActionsCallbackInterface.OnOpenShop;
+                @OpenShop.performed -= m_Wrapper.m_PlayerActionsCallbackInterface.OnOpenShop;
+                @OpenShop.canceled -= m_Wrapper.m_PlayerActionsCallbackInterface.OnOpenShop;
             }
             m_Wrapper.m_PlayerActionsCallbackInterface = instance;
             if (instance != null)
@@ -1004,6 +1030,9 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
                 @Interact.started += instance.OnInteract;
                 @Interact.performed += instance.OnInteract;
                 @Interact.canceled += instance.OnInteract;
+                @OpenShop.started += instance.OnOpenShop;
+                @OpenShop.performed += instance.OnOpenShop;
+                @OpenShop.canceled += instance.OnOpenShop;
             }
         }
     }
@@ -1164,6 +1193,7 @@ public partial class @PlayerInput : IInputActionCollection2, IDisposable
         void OnLook(InputAction.CallbackContext context);
         void OnFire(InputAction.CallbackContext context);
         void OnInteract(InputAction.CallbackContext context);
+        void OnOpenShop(InputAction.CallbackContext context);
     }
     public interface IUIActions
     {

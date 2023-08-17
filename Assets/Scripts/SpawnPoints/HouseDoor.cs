@@ -20,12 +20,6 @@ public class HouseDoor : MonoBehaviour
     {
         if (other.tag == "Player")
         {
-            //if (currentSceneIndex == 1)
-            //{
-            //    SceneManager.LoadScene(0);
-            //}
-            //else
-            //{ SceneManager.LoadScene(1);}
             SceneManager.LoadScene(nextScene);
         }
     }
