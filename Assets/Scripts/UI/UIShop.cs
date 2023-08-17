@@ -14,6 +14,10 @@ public class UIShop : MonoBehaviour
     public Sprite sprite, sprite2, sprite3;
     public int price, price2, price3;
 
+    private void Awake()
+    {
+        playerController = FindObjectOfType<PlayerController>();
+    }
     public void InitializeShopUI(int shopSize)
     {
         for(int i = 0; i < shopSize; i++) 
@@ -45,7 +49,7 @@ public class UIShop : MonoBehaviour
         int index = shopItemsList.IndexOf(obj);
         ResetSelection();
         shopItemsList[index].Select();
-        EquipOutfit(shopItemsList[index].GetOutfitSprite(), playerController);
+        EquipItem(shopItemsList[index]);
     }
 
     private void ResetSelection()
@@ -56,8 +60,10 @@ public class UIShop : MonoBehaviour
         }
     }
 
-    public void EquipOutfit(Sprite newItemSprite, PlayerController playerController)
+    
+    public void EquipItem(ShopItem shopItem)
     {
-        playerController.SetPlayerSprite(newItemSprite);
+        Sprite itemSprite = shopItem.GetOutfitSprite();
+        playerController.SetPlayerSprite(itemSprite);
     }
 }

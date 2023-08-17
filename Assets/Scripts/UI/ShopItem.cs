@@ -44,6 +44,7 @@ public class ShopItem : MonoBehaviour
 
     public Sprite GetOutfitSprite() { return this.outfitImage.sprite; }
 
+
     public void Select()
     {
         borderImage.enabled = true;
@@ -51,7 +52,6 @@ public class ShopItem : MonoBehaviour
 
     public void OnPointerClick(BaseEventData data) 
     {
-        //if (empty) { return; }
         PointerEventData pointerdata = (PointerEventData)data;
         if(pointerdata.button == PointerEventData.InputButton.Left) 
         {
