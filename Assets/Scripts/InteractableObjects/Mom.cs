@@ -1,13 +1,15 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Mom : InteractableObject
 {
-    [SerializeField] GameObject dialoguePanel;
+    
     public override void Interact()
     {
-        dialoguePanel.SetActive(true);
+        var manager = FindObjectOfType<DialogueManager>();
+        manager.StartDialogue(this.dialogue);
     }
 
 }

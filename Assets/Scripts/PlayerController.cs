@@ -1,27 +1,40 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor.U2D.Path.GUIFramework;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using static UnityEngine.InputSystem.InputAction;
 
-public class PlayerMovement : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
+    private PlayerInput input;
+
     private GameObject player;
+    private Mom mom;
+
     private Rigidbody2D rb2d;
     Vector2 moveInput;
     [SerializeField] float moveSpeed;
 
+    private InteractableObject interactableObject;
+    private bool interactionAvailable;
+    
 
     private void Awake()
     {
         rb2d = GetComponent<Rigidbody2D>();
         player = GameObject.FindWithTag("Player");
+        mom = FindObjectOfType<Mom>();
+        input = new PlayerInput();
+        input.Player.Interact.performed += context => OnInteract();
+        input.Player.Move.performed += ctx => moveInput =ctx.ReadValue<Vector2>();
+        input.Player.Move.canceled += ctx => moveInput = Vector2.zero;
     }
 
 
     void Update()
     {
         Movement();
-
     }
 
     private void Movement()
@@ -30,21 +43,25 @@ public class PlayerMovement : MonoBehaviour
         rb2d.velocity = playerVelocity;
     }
 
-    private void OnMove(InputValue value)
+
+    public void OnInteract() 
     {
-        moveInput = value.Get<Vector2>();
+        Debug.Log("HOLI");
+        var interaction = FindObjectOfType<InteractionManager>().GetActiveInteraction();
+
+        if(interaction != default(InteractableObject)) 
+            {
+                interaction.Interact();
+            }
     }
 
-    private void OnInteract(InputValue value) 
+    private void OnEnable()
     {
-        if (value.isPressed == true)
-        {
-            CheckInteraction();
-        }
+        input.Player.Enable();
     }
 
-    private void CheckInteraction()
+    private void OnDisable()
     {
-
+        input.Player.Disable();
     }
 }
